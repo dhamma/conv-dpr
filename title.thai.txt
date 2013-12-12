@@ -1,0 +1,4265 @@
+a sīlakkhandhavaggapāḷi
+2 1. brahmajālasuttaṃ
+4 paribbājakakathā
+4 cūḷasīlaṃ
+4 majjhimasīlaṃ
+4 mahāsīlaṃ
+4 pubbantakappikā
+4 sassatavādo
+4 ekaccasassatavādo
+4 antānantavādo
+4 amarāvikkhepavādo
+4 adhiccasamuppannavādo
+4 aparantakappikā
+4 saññīvādo
+4 asaññīvādo
+4 nevasaññīnāsaññīvādo
+4 ucchedavādo
+4 diṭṭhadhammanibbānavādo
+4 paritassitavipphanditavāro
+4 phassapaccayāvāro
+4 netaṃ ṭhānaṃ vijjativāro
+4 diṭṭhigatikādhiṭṭhānavaṭṭakathā
+4 vivaṭṭakathādi
+2 2. sāmaññaphalasuttaṃ
+4 rājāmaccakathā
+4 komārabhaccajīvakakathā
+4 sāmaññaphalapucchā
+4 pūraṇakassapavādo
+4 makkhaligosālavādo
+4 ajitakesakambalavādo
+4 pakudhakaccāyanavādo
+4 nigaṇṭhanāṭaputtavādo
+4 sañcayabelaṭṭhaputtavādo
+4 paṭhamasandiṭṭhikasāmaññaphalaṃ
+4 dutiyasandiṭṭhikasāmaññaphalaṃ
+4 paṇītatarasāmaññaphalaṃ
+4 cūḷasīlaṃ
+4 majjhimasīlaṃ
+4 mahāsīlaṃ
+4 indriyasaṃvaro
+4 satisampajaññaṃ
+4 santoso
+4 nīvaraṇappahānaṃ
+4 paṭhamajjhānaṃ
+4 dutiyajjhānaṃ
+4 tatiyajjhānaṃ
+4 catutthajjhānaṃ
+4 vipassanāñāṇaṃ
+4 manomayiddhiñāṇaṃ
+4 iddhividhañāṇaṃ
+4 dibbasotañāṇaṃ
+4 cetopariyañāṇaṃ
+4 pubbenivāsānussatiñāṇaṃ
+4 dibbacakkhuñāṇaṃ
+4 āsavakkhayañāṇaṃ
+4 ajātasattūpāsakattapaṭivedanā
+2 3. ambaṭṭhasuttaṃ
+4 unnamed
+4 pokkharasātivatthu
+4 ambaṭṭhamāṇavo
+4 paṭhamaibbhavādo
+4 dutiyaibbhavādo
+4 tatiyaibbhavādo
+4 dāsiputtavādo
+4 ambaṭṭhavaṃsakathā
+4 khattiyaseṭṭhabhāvo
+4 vijjācaraṇakathā
+4 catuapāyamukhaṃ
+4 pubbakaisibhāvānuyogo
+4 dvelakkhaṇādassanaṃ
+4 pokkharasātibuddhupasaṅkamanaṃ
+4 pokkharasātiupāsakattapaṭivedanā
+2 4. soṇadaṇḍasuttaṃ
+4 campeyyakabrāhmaṇagahapatikā
+4 soṇadaṇḍaguṇakathā
+4 buddhaguṇakathā
+4 soṇadaṇḍaparivitakko
+4 brāhmaṇapaññatti
+4 sīlapaññākathā
+4 soṇadaṇḍaupāsakattapaṭivedanā
+2 5. kūṭadantasuttaṃ
+4 khāṇumatakabrāhmaṇagahapatikā
+4 kūṭadantaguṇakathā
+4 buddhaguṇakathā
+4 mahāvijitarājayaññakathā
+4 catuparikkhāraṃ
+4 aṭṭha parikkhārā
+4 catuparikkhāraṃ
+4 tisso vidhā
+4 dasa ākārā
+4 soḷasa ākārā
+4 niccadānānukulayaññaṃ
+4 kūṭadantaupāsakattapaṭivedanā
+4 sotāpattiphalasacchikiriyā
+2 6. mahālisuttaṃ
+4 brāhmaṇadūtavatthu
+4 oṭṭhaddhalicchavīvatthu
+4 ekaṃsabhāvitasamādhi
+4 catuariyaphalaṃ
+4 ariyāṭṭhaṅgikamaggo
+4 dvepabbajitavatthu
+2 7. jāliyasuttaṃ
+4 dvepabbajitavatthu
+2 8. mahāsīhanādasuttaṃ
+4 acelakassapavatthu
+4 samanuyuñjāpanakathā
+4 ariyo aṭṭhaṅgiko maggo
+4 tapopakkamakathā
+4 tapopakkamaniratthakathā
+4 sīlasamādhipaññāsampadā
+4 sīhanādakathā
+4 titthiyaparivāsakathā
+2 9. poṭṭhapādasuttaṃ
+4 poṭṭhapādaparibbājakavatthu
+4 abhisaññānirodhakathā
+4 sahetukasaññuppādanirodhakathā
+4 saññāattakathā
+4 cittahatthisāriputtapoṭṭhapādavatthu
+4 ekaṃsikadhammo
+4 tayo attapaṭilābhā
+4 cittahatthisāriputtaupasampadā
+2 10. subhasuttaṃ
+4 subhamāṇavavatthu
+4 sīlakkhandho
+4 samādhikkhandho
+4 paññākkhandho
+2 11. kevaṭṭasuttaṃ
+4 kevaṭṭagahapatiputtavatthu
+4 iddhipāṭihāriyaṃ
+4 ādesanāpāṭihāriyaṃ
+4 anusāsanīpāṭihāriyaṃ
+4 bhūtanirodhesakabhikkhuvatthu
+4 tīradassisakuṇupamā
+2 12. lohiccasuttaṃ
+4 lohiccabrāhmaṇavatthu
+4 lohiccabrāhmaṇānuyogo
+4 tayo codanārahā
+4 nacodanārahasatthu
+2 13. tevijjasuttaṃ
+4 unnamed
+4 maggāmaggakathā
+4 vāseṭṭhamāṇavānuyogo
+4 janapadakalyāṇīupamā
+4 nisseṇīupamā
+4 aciravatīnadīupamā
+4 saṃsandanakathā
+4 brahmalokamaggadesanā
+a mahāvaggapāḷi
+2 1. mahāpadānasuttaṃ
+4 pubbenivāsapaṭisaṃyuttakathā
+4 bodhisattadhammatā
+4 dvattiṃsamahāpurisalakkhaṇā
+4 vipassīsamaññā
+4 jiṇṇapuriso
+4 byādhitapuriso
+4 kālaṅkatapuriso
+4 pabbajito
+4 bodhisattapabbajjā
+4 mahājanakāyānupabbajjā
+4 bodhisattābhiniveso
+4 brahmayācanakathā
+4 aggasāvakayugaṃ
+4 mahājanakāyapabbajjā
+4 purimapabbajitānaṃ dhammābhisamayo
+4 cārikāanujānanaṃ
+4 devatārocanaṃ
+2 2. mahānidānasuttaṃ
+4 paṭiccasamuppādo
+4 attapaññatti
+4 nāttapaññatti
+4 attasamanupassanā
+4 satta viññāṇaṭṭhiti
+4 aṭṭha vimokkhā
+2 3. mahāparinibbānasuttaṃ
+4 unnamed
+4 vassakārabrāhmaṇo
+4 rājāparihāniyadhammā
+4 bhikkhuaparihāniyadhammā
+4 sāriputtasīhanādo
+4 dussīlāadīnavā
+4 sīlavanttāanisaṃsā
+4 pāṭaliputtanagaramāpanaṃ
+4 ariyasaccakathā
+4 anāvattidhammasambodhiparāyaṇā
+4 dhammādāsadhammapariyāyā
+4 ambapālīgaṇikā
+4 veḷuvagāmavassūpagamanaṃ
+4 nimittobhāsakathā
+4 mārayācanakathā
+4 āyusaṅkhāraossajjanaṃ
+4 mahābhūmicālahetu
+4 aṭṭha parisā
+4 aṭṭha abhibhāyatanāni
+4 aṭṭha vimokkhā
+4 ānandayācanakathā
+4 nāgāpalokitaṃ
+4 catumahāpadesakathā
+4 kammāraputtacundavatthu
+4 pānīyāharaṇaṃ
+4 pukkusamallaputtavatthu
+4 yamakasālā
+4 upavāṇatthero
+4 catusaṃvejanīyaṭṭhānāni
+4 ānandapucchākathā
+4 thūpārahapuggalo
+4 ānandācchariyadhammo
+4 mahāsudassanasuttadesanā
+4 mallānaṃ vandanā
+4 subhaddaparibbājakavatthu
+4 tathāgatapacchimavācā
+4 parinibbutakathā
+4 buddhasarīrapūjā
+4 mahākassapattheravatthu
+4 sarīradhātuvibhājanaṃ
+4 dhātuthūpapūjā
+2 4. mahāsudassanasuttaṃ
+4 unnamed
+4 kusāvatīrājadhānī
+4 cakkaratanaṃ
+4 hatthiratanaṃ
+4 assaratanaṃ
+4 maṇiratanaṃ
+4 itthiratanaṃ
+4 gahapatiratanaṃ
+4 pariṇāyakaratanaṃ
+4 catuiddhisamannāgato
+4 dhammapāsādapokkharaṇī
+4 jhānasampatti
+4 caturāsīti nagarasahassādi
+4 subhaddādeviupasaṅkamanaṃ
+4 brahmalokūpagamaṃ
+2 5. janavasabhasuttaṃ
+4 nātikiyādibyākaraṇaṃ
+4 ānandaparikathā
+4 janavasabhayakkho
+4 devasabhā
+4 sanaṅkumārakathā
+4 bhāvitaiddhipādo
+4 tividho okāsādhigamo
+4 catusatipaṭṭhānaṃ
+4 satta samādhiparikkhārā
+2 6. mahāgovindasuttaṃ
+4 unnamed
+4 devasabhā
+4 aṭṭha yathābhuccavaṇṇā
+4 sanaṅkumārakathā
+4 aṭṭha yathābhuccavaṇṇā
+4 govindabrāhmaṇavatthu
+4 mahāgovindavatthu
+4 rajjasaṃvibhajanaṃ
+4 kittisaddābbhuggamanaṃ
+4 brahmunā sākacchā
+4 reṇurājāamantanā
+4 cha khattiyāamantanā
+4 brāhmaṇamahāsālādīnaṃ āmantanā
+4 bhariyānaṃ āmantanā
+4 mahāgovindapabbajjā
+2 7. mahāsamayasuttaṃ
+4 unnamed
+4 devatāsannipātā
+2 8. sakkapañhasuttaṃ
+4 unnamed
+4 pañcasikhagītagāthā
+4 sakkūpasaṅkama
+4 gopakavatthu
+4 vedanākammaṭṭhānaṃ
+4 pātimokkhasaṃvaro
+4 indriyasaṃvaro
+4 somanassapaṭilābhakathā
+2 9. mahāsatipaṭṭhānasuttaṃ
+4 uddeso
+4 kāyānupassanā ānāpānapabbaṃ
+4 kāyānupassanā iriyāpathapabbaṃ
+4 kāyānupassanā sampajānapabbaṃ
+4 kāyānupassanā paṭikūlamanasikārapabbaṃ
+4 kāyānupassanā dhātumanasikārapabbaṃ
+4 kāyānupassanā navasivathikapabbaṃ
+4 vedanānupassanā
+4 cittānupassanā
+4 dhammānupassanā nīvaraṇapabbaṃ
+4 dhammānupassanā khandhapabbaṃ
+4 dhammānupassanā āyatanapabbaṃ
+4 dhammānupassanā bojjhaṅgapabbaṃ
+4 dhammānupassanā saccapabbaṃ
+4 dukkhasaccaniddeso
+4 samudayasaccaniddeso
+4 nirodhasaccaniddeso
+4 maggasaccaniddeso
+2 10. pāyāsisuttaṃ
+4 unnamed
+4 pāyāsirājaññavatthu
+4 natthikavādo
+4 candimasūriyaupamā
+4 coraupamā
+4 gūthakūpapurisaupamā
+4 tāvatiṃsadevaupamā
+4 jaccandhaupamā
+4 gabbhinīupamā
+4 supinakaupamā
+4 santattāyoguḷaupamā
+4 saṅkhadhamaupamā
+4 aggikajaṭilaupamā
+4 dve satthavāhaupamā
+4 gūthabhārikaupamā
+4 akkhadhuttakaupamā
+4 sāṇabhārikaupamā
+4 saraṇagamanaṃ
+4 yaññakathā
+4 uttaramāṇavavatthu
+4 pāyāsidevaputto
+a pāthikavaggapāḷi
+2 1. pāthikasuttaṃ
+4 sunakkhattavatthu
+4 korakkhattiyavatthu
+4 acelakaḷāramaṭṭakavatthu
+4 acelapāthikaputtavatthu
+4 iddhipāṭihāriyakathā
+4 aggaññapaññattikathā
+2 2. udumbarikasuttaṃ
+4 nigrodhaparibbājakavatthu
+4 tapojigucchāvādo
+4 upakkileso
+4 parisuddhapapaṭikappattakathā
+4 parisuddhatacappattakathā
+4 parisuddhaphegguppattakathā
+4 parisuddhāggappattasārappattakathā
+4 nigrodhassa pajjhāyanaṃ
+4 brahmacariyapariyosānasacchikiriyā
+4 paribbājakānaṃ pajjhāyanaṃ
+2 3. cakkavattisuttaṃ
+4 attadīpasaraṇatā
+4 daḷhanemicakkavattirājā
+4 cakkavattiariyavattaṃ
+4 cakkaratanapātubhāvo
+4 dutiyādicakkavattikathā
+4 āyuvaṇṇādipariyānikathā
+4 dasavassāyukasamayo
+4 āyuvaṇṇādivaḍḍhanakathā
+4 saṅkharājauppatti
+4 metteyyabuddhuppādo
+4 bhikkhunoāyuvaṇṇādivaḍḍhanakathā
+2 4. aggaññasuttaṃ
+4 vāseṭṭhabhāradvājā
+4 catuvaṇṇasuddhi
+4 rasapathavipātubhāvo
+4 candimasūriyādipātubhāvo
+4 bhūmipappaṭakapātubhāvo
+4 padālatāpātubhāvo
+4 akaṭṭhapākasālipātubhāvo
+4 itthipurisaliṅgapātubhāvo
+4 methunadhammasamācāro
+4 sālivibhāgo
+4 mahāsammatarājā
+4 brāhmaṇamaṇḍalaṃ
+4 vessamaṇḍalaṃ
+4 suddamaṇḍalaṃ
+4 duccaritādikathā
+4 bodhipakkhiyabhāvanā
+2 5. sampasādanīyasuttaṃ
+4 sāriputtasīhanādo
+4 kusaladhammadesanā
+4 āyatanapaṇṇattidesanā
+4 gabbhāvakkantidesanā
+4 ādesanavidhādesanā
+4 dassanasamāpattidesanā
+4 puggalapaṇṇattidesanā
+4 padhānadesanā
+4 paṭipadādesanā
+4 bhassasamācārādidesanā
+4 anusāsanavidhādesanā
+4 parapuggalavimuttiñāṇadesanā
+4 sassatavādadesanā
+4 pubbenivāsānussatiñāṇadesanā
+4 cutūpapātañāṇadesanā
+4 iddhividhadesanā
+4 aññathāsatthuguṇadassanaṃ
+4 anuyogadānappakāro
+4 acchariyābbhutaṃ
+2 6. pāsādikasuttaṃ
+4 unnamed
+4 nigaṇṭhanāṭaputtakālaṅkiriyā
+4 asammāsambuddhappaveditadhammavinayo
+4 sammāsambuddhappaveditadhammavinayo
+4 sāvakānutappasatthu
+4 sāvakānanutappasatthu
+4 brahmacariyāparipūrādikathā
+4 saṅgāyitabbadhammo
+4 saññāpetabbavidhi
+4 sukhallikānuyogo
+4 sukhallikānuyogānisaṃso
+4 khīṇāsavābhabbaṭhānaṃ
+4 pañhābyākaraṇaṃ
+4 abyākataṭṭhānaṃ
+4 byākataṭṭhānaṃ
+4 pubbantasahagatadiṭṭhinissayā
+4 aparantasahagatadiṭṭhinissayā
+2 7. lakkhaṇasuttaṃ
+4 dvattiṃsamahāpurisalakkhaṇāni
+4 (1) suppatiṭṭhitapādatālakkhaṇaṃ
+4 (2) pādatalacakkalakkhaṇaṃ
+4 (3-5) āyatapaṇhitāditilakkhaṇaṃ
+4 (6) sattussadatālakkhaṇaṃ
+4 (7-8) karacaraṇamudujālatālakkhaṇāni
+4 (9-10) ussaṅkhapādauddhaggalomatālakkhaṇāni
+4 (11) eṇijaṅghalakkhaṇaṃ
+4 (12) sukhumacchavilakkhaṇaṃ
+4 (13) suvaṇṇavaṇṇalakkhaṇaṃ
+4 (14) kosohitavatthaguyhalakkhaṇaṃ
+4 (15-16) parimaṇḍalānonamajaṇṇuparimasanalakkhaṇāni
+4 (17-19) sīhapubbaddhakāyāditilakkhaṇaṃ
+4 (20) rasaggasaggitālakkhaṇaṃ
+4 (21-22) abhinīlanettagopakhumalakkhaṇāni
+4 (23) uṇhīsasīsalakkhaṇaṃ
+4 (24-25) ekekalomatāuṇṇālakkhaṇāni
+4 (26-27) cattālīsāviraḷadantalakkhaṇāni
+4 (28-29) pahūtajivhābrahmassaralakkhaṇāni
+4 (30) sīhahanulakkhaṇaṃ
+4 (31-32) samadantasusukkadāṭhālakkhaṇāni
+2 8. siṅgālasuttaṃ
+4 unnamed
+4 cha disā
+4 cattārokammakilesā
+4 catuṭṭhānaṃ
+4 cha apāyamukhāni
+4 surāmerayassa cha ādīnavā
+4 vikālacariyāya cha ādīnavā
+4 samajjābhicaraṇassa cha ādīnavā
+4 jūtappamādassa cha ādīnavā
+4 pāpamittatāya cha ādīnavā
+4 ālasyassa cha ādīnavā
+4 mittapatirūpakā
+4 suhadamitto
+4 chaddisāpaṭicchādanakaṇḍaṃ
+2 9. āṭānāṭiyasuttaṃ
+4 paṭhamabhāṇavāro
+4 dutiyabhāṇavāro
+2 10. saṅgītisuttaṃ
+4 unnamed
+4 ubbhatakanavasandhāgāraṃ
+4 bhinnanigaṇṭhavatthu
+4 ekakaṃ
+4 dukaṃ
+4 tikaṃ
+4 catukkaṃ
+4 pañcakaṃ
+4 chakkaṃ
+4 sattakaṃ
+4 aṭṭhakaṃ
+4 navakaṃ
+4 dasakaṃ
+2 11. dasuttarasuttaṃ
+4 unnamed
+4 eko dhammo
+4 dve dhammā
+4 tayo dhammā
+4 cattāro dhammā
+4 pañca dhammā
+4 cha dhammā
+4 satta dhammā
+4 aṭṭha dhammā
+4 nava dhammā
+4 dasa dhammā
+a mūlapaṇṇāsapāḷi
+2 1. mūlapariyāyavaggo
+3 1. mūlapariyāyasuttaṃ
+3 2. sabbāsavasuttaṃ
+4 unnamed
+4 dassanā pahātabbāsavā
+4 saṃvarā pahātabbāsavā
+4 paṭisevanā pahātabbāsavā
+4 adhivāsanā pahātabbāsavā
+4 parivajjanā pahātabbāsavā
+4 vinodanā pahātabbāsavā
+4 bhāvanā pahātabbāsavā
+3 3. dhammadāyādasuttaṃ
+3 4. bhayabheravasuttaṃ
+3 5. anaṅgaṇasuttaṃ
+3 6. ākaṅkheyyasuttaṃ
+3 7. vatthasuttaṃ
+3 8. sallekhasuttaṃ
+3 9. sammādiṭṭhisuttaṃ
+3 10. mahāsatipaṭṭhānasuttaṃ
+4 unnamed
+4 uddeso
+4 kāyānupassanā ānāpānapabbaṃ
+4 kāyānupassanā iriyāpathapabbaṃ
+4 kāyānupassanā sampajānapabbaṃ
+4 kāyānupassanā paṭikūlamanasikārapabbaṃ
+4 kāyānupassanā dhātumanasikārapabbaṃ
+4 kāyānupassanā navasivathikapabbaṃ
+4 vedanānupassanā
+4 cittānupassanā
+4 dhammānupassanā nīvaraṇapabbaṃ
+4 dhammānupassanā khandhapabbaṃ
+4 dhammānupassanā āyatanapabbaṃ
+4 dhammānupassanā bojjhaṅgapabbaṃ
+4 dhammānupassanā saccapabbaṃ
+4 dukkhasaccaniddeso
+4 samudayasaccaniddeso
+4 nirodhasaccaniddeso
+4 maggasaccaniddeso
+2 2. sīhanādavaggo
+3 1. cūḷasīhanādasuttaṃ
+3 2. mahāsīhanādasuttaṃ
+3 3. mahādukkhakkhandhasuttaṃ
+3 4. cūḷadukkhakkhandhasuttaṃ
+3 5. anumānasuttaṃ
+3 6. cetokhilasuttaṃ
+3 7. vanapatthasuttaṃ
+3 8. madhupiṇḍikasuttaṃ
+3 9. dvedhāvitakkasuttaṃ
+3 10. vitakkasaṇṭhānasuttaṃ
+2 3. opammavaggo
+3 1. kakacūpamasuttaṃ
+3 2. alagaddūpamasuttaṃ
+3 3. vammikasuttaṃ
+3 4. rathavinītasuttaṃ
+3 5. nivāpasuttaṃ
+3 6. pāsarāsisuttaṃ
+3 7. cūḷahatthipadopamasuttaṃ
+3 8. mahāhatthipadopamasuttaṃ
+3 9. mahāsāropamasuttaṃ
+3 10. cūḷasāropamasuttaṃ
+2 4. mahāyamakavaggo
+3 1. cūḷagosiṅgasuttaṃ
+3 2. mahāgosiṅgasuttaṃ
+3 3. mahāgopālakasuttaṃ
+3 4. cūḷagopālakasuttaṃ
+3 5. cūḷasaccakasuttaṃ
+3 6. mahāsaccakasuttaṃ
+3 7. cūḷataṇhāsaṅkhayasuttaṃ
+3 8. mahātaṇhāsaṅkhayasuttaṃ
+3 9. mahāassapurasuttaṃ
+3 10. cūḷāssapurasuttaṃ
+2 5. cūḷayamakavaggo
+3 1. sāleyyakasuttaṃ
+3 2. verañjakasuttaṃ
+3 3. mahāvedallasuttaṃ
+3 4. cūḷavedallasuttaṃ
+3 5. cūḷadhammasamādānasuttaṃ
+3 6. mahādhammasamādānasuttaṃ
+3 7. vīmaṃsakasuttaṃ
+3 8. kosambiyasuttaṃ
+3 9. brahmanimantanikasuttaṃ
+3 10. māratajjanīyasuttaṃ
+a majjhimapaṇṇāsapāḷi
+2 1. gahapativaggo
+3 1. kandarakasuttaṃ
+3 2. aṭṭhakanāgarasuttaṃ
+3 3. sekhasuttaṃ
+3 4. potaliyasuttaṃ
+4 unnamed
+4 kāmādīnavakathā
+3 5. jīvakasuttaṃ
+3 6. upālisuttaṃ
+3 7. kukkuravatikasuttaṃ
+3 8. abhayarājakumārasuttaṃ
+3 9. bahuvedanīyasuttaṃ
+3 10. apaṇṇakasuttaṃ
+2 2. bhikkhuvaggo
+3 1. ambalaṭṭhikarāhulovādasuttaṃ
+3 2. mahārāhulovādasuttaṃ
+3 3. cūḷamālukyasuttaṃ
+3 4. mahāmālukyasuttaṃ
+3 5. bhaddālisuttaṃ
+3 6. laṭukikopamasuttaṃ
+3 7. cātumasuttaṃ
+3 8. naḷakapānasuttaṃ
+3 9. goliyānisuttaṃ
+3 10. kīṭāgirisuttaṃ
+2 3. paribbājakavaggo
+3 1. tevijjavacchasuttaṃ
+3 2. aggivacchasuttaṃ
+3 3. mahāvacchasuttaṃ
+3 4. dīghanakhasuttaṃ
+3 5. māgaṇḍiyasuttaṃ
+3 6. sandakasuttaṃ
+3 7. mahāsakuludāyisuttaṃ
+3 8. samaṇamuṇḍikasuttaṃ
+3 9. cūḷasakuludāyisuttaṃ
+3 10. vekhanasasuttaṃ
+2 4. rājavaggo
+3 1. ghaṭikārasuttaṃ
+3 2. raṭṭhapālasuttaṃ
+3 3. maghadevasuttaṃ
+3 4. madhurasuttaṃ
+3 5. bodhirājakumārasuttaṃ
+3 6. aṅgulimālasuttaṃ
+3 7. piyajātikasuttaṃ
+3 8. bāhitikasuttaṃ
+3 9. dhammacetiyasuttaṃ
+3 10. kaṇṇakatthalasuttaṃ
+2 5. brāhmaṇavaggo
+3 1. brahmāyusuttaṃ
+3 2. selasuttaṃ
+3 3. assalāyanasuttaṃ
+3 4. ghoṭamukhasuttaṃ
+3 5. caṅkīsuttaṃ
+3 6. esukārīsuttaṃ
+3 7. dhanañjānisuttaṃ
+3 8. vāseṭṭhasuttaṃ
+3 9. subhasuttaṃ
+3 10. saṅgāravasuttaṃ
+a uparipaṇṇāsapāḷi
+2 1. devadahavaggo
+3 1. devadahasuttaṃ
+3 2. pañcattayasuttaṃ
+3 3. kintisuttaṃ
+3 4. sāmagāmasuttaṃ
+3 5. sunakkhattasuttaṃ
+3 6. āneñjasappāyasuttaṃ
+3 7. gaṇakamoggallānasuttaṃ
+3 8. gopakamoggallānasuttaṃ
+3 9. mahāpuṇṇamasuttaṃ
+3 10. cūḷapuṇṇamasuttaṃ
+2 2. anupadavaggo
+3 1. anupadasuttaṃ
+3 2. chabbisodhanasuttaṃ
+3 3. sappurisasuttaṃ
+3 4. sevitabbāsevitabbasuttaṃ
+3 5. bahudhātukasuttaṃ
+3 6. isigilisuttaṃ
+3 7. mahācattārīsakasuttaṃ
+3 8. ānāpānassatisuttaṃ
+3 9. kāyagatāsatisuttaṃ
+3 10. saṅkhārupapattisuttaṃ
+2 3. suññatavaggo
+3 1. cūḷasuññatasuttaṃ
+3 2. mahāsuññatasuttaṃ
+3 3. acchariyābbhutasuttaṃ
+3 4. bākulasuttaṃ
+3 5. dantabhūmisuttaṃ
+3 6. bhūmijasuttaṃ
+3 7. anuruddhasuttaṃ
+3 8. upakkilesasuttaṃ
+3 9. bālapaṇḍitasuttaṃ
+3 10. devadūtasuttaṃ
+2 4. vibhaṅgavaggo
+3 1. bhaddekarattasuttaṃ
+3 2. ānandabhaddekarattasuttaṃ
+3 3. mahākaccānabhaddekarattasuttaṃ
+3 4. lomasakaṅgiyabhaddekarattasuttaṃ
+3 5. cūḷakammavibhaṅgasuttaṃ
+3 6. mahākammavibhaṅgasuttaṃ
+3 7. saḷāyatanavibhaṅgasuttaṃ
+3 8. uddesavibhaṅgasuttaṃ
+3 9. araṇavibhaṅgasuttaṃ
+3 10. dhātuvibhaṅgasuttaṃ
+3 11. saccavibhaṅgasuttaṃ
+3 12. dakkhiṇāvibhaṅgasuttaṃ
+2 5. saḷāyatanavaggo
+3 1. anāthapiṇḍikovādasuttaṃ
+3 2. channovādasuttaṃ
+3 3. puṇṇovādasuttaṃ
+3 4. nandakovādasuttaṃ
+3 5. cūḷarāhulovādasuttaṃ
+3 6. chachakkasuttaṃ
+3 7. mahāsaḷāyatanikasuttaṃ
+3 8. nagaravindeyyasuttaṃ
+3 9. piṇḍapātapārisuddhisuttaṃ
+3 10. indriyabhāvanāsuttaṃ
+a sagāthāvaggo
+2 1. devatāsaṃyuttaṃ
+3 1. naḷavaggo
+4 1. oghataraṇasuttaṃ
+4 2. nimokkhasuttaṃ
+4 3. upanīyasuttaṃ
+4 4. accentisuttaṃ
+4 5. katichindasuttaṃ
+4 6. jāgarasuttaṃ
+4 7. appaṭividitasuttaṃ
+4 8. susammuṭṭhasuttaṃ
+4 9. mānakāmasuttaṃ
+4 10. araññasuttaṃ
+3 2. nandanavaggo
+4 1. nandanasuttaṃ
+4 2. nandatisuttaṃ
+4 3. natthiputtasamasuttaṃ
+4 4. khattiyasuttaṃ
+4 5. saṇamānasuttaṃ
+4 6. niddātandīsuttaṃ
+4 7. dukkarasuttaṃ
+4 8. hirīsuttaṃ
+4 9. kuṭikāsuttaṃ
+4 10. samiddhisuttaṃ
+3 3. sattivaggo
+4 1. sattisuttaṃ
+4 2. phusatisuttaṃ
+4 3. jaṭāsuttaṃ
+4 4. manonivāraṇasuttaṃ
+4 5. arahantasuttaṃ
+4 6. pajjotasuttaṃ
+4 7. sarasuttaṃ
+4 8. mahaddhanasuttaṃ
+4 9. catucakkasuttaṃ
+4 10. eṇijaṅghasuttaṃ
+3 4. satullapakāyikavaggo
+4 1. sabbhisuttaṃ
+4 2. maccharisuttaṃ
+4 3. sādhusuttaṃ
+4 4. nasantisuttaṃ
+4 5. ujjhānasaññisuttaṃ
+4 6. saddhāsuttaṃ
+4 7. samayasuttaṃ
+4 8. sakalikasuttaṃ
+4 9. paṭhamapajjunnadhītusuttaṃ
+4 10. dutiyapajjunnadhītusuttaṃ
+3 5. ādittavaggo
+4 1. ādittasuttaṃ
+4 2. kiṃdadasuttaṃ
+4 3. annasuttaṃ
+4 4. ekamūlasuttaṃ
+4 5. anomasuttaṃ
+4 6. accharāsuttaṃ
+4 7. vanaropasuttaṃ
+4 8. jetavanasuttaṃ
+4 9. maccharisuttaṃ
+4 10. ghaṭīkārasuttaṃ
+3 6. jarāvaggo
+4 1. jarāsuttaṃ
+4 2. ajarasāsuttaṃ
+4 3. mittasuttaṃ
+4 4. vatthusuttaṃ
+4 5. paṭhamajanasuttaṃ
+4 6. dutiyajanasuttaṃ
+4 7. tatiyajanasuttaṃ
+4 8. uppathasuttaṃ
+4 9. dutiyasuttaṃ
+4 10. kavisuttaṃ
+3 7. addhavaggo
+4 1. nāmasuttaṃ
+4 2. cittasuttaṃ
+4 3. taṇhāsuttaṃ
+4 4. saṃyojanasuttaṃ
+4 5. bandhanasuttaṃ
+4 6. attahatasuttaṃ
+4 7. uḍḍitasuttaṃ
+4 8. pihitasuttaṃ
+4 9. icchāsuttaṃ
+4 10. lokasuttaṃ
+3 8. chetvāvaggo
+4 1. chetvāsuttaṃ
+4 2. rathasuttaṃ
+4 3. vittasuttaṃ
+4 4. vuṭṭhisuttaṃ
+4 5. bhītāsuttaṃ
+4 6. najīratisuttaṃ
+4 7. issariyasuttaṃ
+4 8. kāmasuttaṃ
+4 9. pātheyyasuttaṃ
+4 10. pajjotasuttaṃ
+4 11. araṇasuttaṃ
+2 2. devaputtasaṃyuttaṃ
+3 1. paṭhamavaggo
+4 1. paṭhamakassapasuttaṃ
+4 2. dutiyakassapasuttaṃ
+4 3. māghasuttaṃ
+4 4. māgadhasuttaṃ
+4 5. dāmalisuttaṃ
+4 6. kāmadasuttaṃ
+4 7. pañcālacaṇḍasuttaṃ
+4 8. tāyanasuttaṃ
+4 9. candimasuttaṃ
+4 10. sūriyasuttaṃ
+3 2. anāthapiṇḍikavaggo
+4 1. candimasasuttaṃ
+4 2. veṇḍusuttaṃ
+4 3. dīghalaṭṭhisuttaṃ
+4 4. nandanasuttaṃ
+4 5. candanasuttaṃ
+4 6. vāsudattasuttaṃ
+4 7. subrahmasuttaṃ
+4 8. kakudhasuttaṃ
+4 9. uttarasuttaṃ
+4 10. anāthapiṇḍikasuttaṃ
+3 3. nānātitthiyavaggo
+4 1. sivasuttaṃ
+4 2. khemasuttaṃ
+4 3. serīsuttaṃ
+4 4. ghaṭīkārasuttaṃ
+4 5. jantusuttaṃ
+4 6. rohitassasuttaṃ
+4 7. nandasuttaṃ
+4 8. nandivisālasuttaṃ
+4 9. susimasuttaṃ
+4 10. nānātitthiyasāvakasuttaṃ
+2 3. kosalasaṃyuttaṃ
+3 1. paṭhamavaggo
+4 1. daharasuttaṃ
+4 2. purisasuttaṃ
+4 3. jarāmaraṇasuttaṃ
+4 4. piyasuttaṃ
+4 5. attarakkhitasuttaṃ
+4 6. appakasuttaṃ
+4 7. aḍḍakaraṇasuttaṃ
+4 8. mallikāsuttaṃ
+4 9. yaññasuttaṃ
+4 10. bandhanasuttaṃ
+3 2. dutiyavaggo
+4 1. sattajaṭilasuttaṃ
+4 2. pañcarājasuttaṃ
+4 3. doṇapākasuttaṃ
+4 4. paṭhamasaṅgāmasuttaṃ
+4 5. dutiyasaṅgāmasuttaṃ
+4 6. mallikāsuttaṃ
+4 7. appamādasuttaṃ
+4 8. kalyāṇamittasuttaṃ
+4 9. paṭhamāputtakasuttaṃ
+4 10. dutiyāputtakasuttaṃ
+3 3. tatiyavaggo
+4 1. puggalasuttaṃ
+4 2. ayyikāsuttaṃ
+4 3. lokasuttaṃ
+4 4. issattasuttaṃ
+4 5. pabbatūpamasuttaṃ
+2 4. mārasaṃyuttaṃ
+3 1. paṭhamavaggo
+4 1. tapokammasuttaṃ
+4 2. hatthirājavaṇṇasuttaṃ
+4 3. subhasuttaṃ
+4 4. paṭhamamārapāsasuttaṃ
+4 5. dutiyamārapāsasuttaṃ
+4 6. sappasuttaṃ
+4 7. supatisuttaṃ
+4 8. nandatisuttaṃ
+4 9. paṭhamāayusuttaṃ
+4 10. dutiyāayusuttaṃ
+3 2. dutiyavaggo
+4 1. pāsāṇasuttaṃ
+4 2. kinnusīhasuttaṃ
+4 3. sakalikasuttaṃ
+4 4. patirūpasuttaṃ
+4 5. mānasasuttaṃ
+4 6. pattasuttaṃ
+4 7. chaphassāyatanasuttaṃ
+4 8. piṇḍasuttaṃ
+4 9. kassakasuttaṃ
+4 10. rajjasuttaṃ
+3 3. tatiyavaggo
+4 1. sambahulasuttaṃ
+4 2. samiddhisuttaṃ
+4 3. godhikasuttaṃ
+4 4. sattavassānubandhasuttaṃ
+4 5. māradhītusuttaṃ
+2 5. bhikkhunīsaṃyuttaṃ
+4 1. āḷavikāsuttaṃ
+4 2. somāsuttaṃ
+4 3. kisāgotamīsuttaṃ
+4 4. vijayāsuttaṃ
+4 5. uppalavaṇṇāsuttaṃ
+4 6. cālāsuttaṃ
+4 7. upacālāsuttaṃ
+4 8. sīsupacālāsuttaṃ
+4 9. selāsuttaṃ
+4 10. vajirāsuttaṃ
+2 6. brahmasaṃyuttaṃ
+3 1. paṭhamavaggo
+4 1. brahmāyācanasuttaṃ
+4 2. gāravasuttaṃ
+4 3. brahmadevasuttaṃ
+4 4. bakabrahmasuttaṃ
+4 5. aññatarabrahmasuttaṃ
+4 6. brahmalokasuttaṃ
+4 7. kokālikasuttaṃ
+4 8. katamodakatissasuttaṃ
+4 9. turūbrahmasuttaṃ
+4 10. kokālikasuttaṃ
+3 2. dutiyavaggo
+4 1. sanaṅkumārasuttaṃ
+4 2. devadattasuttaṃ
+4 3. andhakavindasuttaṃ
+4 4. aruṇavatīsuttaṃ
+4 5. parinibbānasuttaṃ
+2 7. brāhmaṇasaṃyuttaṃ
+3 1. arahantavaggo
+4 1. dhanañjānīsuttaṃ
+4 2. akkosasuttaṃ
+4 3. asurindakasuttaṃ
+4 4. bilaṅgikasuttaṃ
+4 5. ahiṃsakasuttaṃ
+4 6. jaṭāsuttaṃ
+4 7. suddhikasuttaṃ
+4 8. aggikasuttaṃ
+4 9. sundarikasuttaṃ
+4 10. bahudhītarasuttaṃ
+3 2. upāsakavaggo
+4 1. kasibhāradvājasuttaṃ
+4 2. udayasuttaṃ
+4 3. devahitasuttaṃ
+4 4. mahāsālasuttaṃ
+4 5. mānatthaddhasuttaṃ
+4 6. paccanīkasuttaṃ
+4 7. navakammikasuttaṃ
+4 8. kaṭṭhahārasuttaṃ
+4 9. mātuposakasuttaṃ
+4 10. bhikkhakasuttaṃ
+4 11. saṅgāravasuttaṃ
+4 12. khomadussasuttaṃ
+2 8. vaṅgīsasaṃyuttaṃ
+4 1. nikkhantasuttaṃ
+4 2. aratisuttaṃ
+4 3. pesalasuttaṃ
+4 4. ānandasuttaṃ
+4 5. subhāsitasuttaṃ
+4 6. sāriputtasuttaṃ
+4 7. pavāraṇāsuttaṃ
+4 8. parosahassasuttaṃ
+4 9. koṇḍaññasuttaṃ
+4 10. moggallānasuttaṃ
+4 11. gaggarāsuttaṃ
+4 12. vaṅgīsasuttaṃ
+2 9. vanasaṃyuttaṃ
+4 1. vivekasuttaṃ
+4 2. upaṭṭhānasuttaṃ
+4 3. kassapagottasuttaṃ
+4 4. sambahulasuttaṃ
+4 5. ānandasuttaṃ
+4 6. anuruddhasuttaṃ
+4 7. nāgadattasuttaṃ
+4 8. kulagharaṇīsuttaṃ
+4 9. vajjiputtasuttaṃ
+4 10. sajjhāyasuttaṃ
+4 11. akusalavitakkasuttaṃ
+4 12. majjhanhikasuttaṃ
+4 13. pākatindriyasuttaṃ
+4 14. gandhatthenasuttaṃ
+2 10. yakkhasaṃyuttaṃ
+4 1. indakasuttaṃ
+4 2. sakkanāmasuttaṃ
+4 3. sūcilomasuttaṃ
+4 4. maṇibhaddasuttaṃ
+4 5. sānusuttaṃ
+4 6. piyaṅkarasuttaṃ
+4 7. punabbasusuttaṃ
+4 8. sudattasuttaṃ
+4 9. paṭhamasukkāsuttaṃ
+4 10. dutiyasukkāsuttaṃ
+4 11. cīrāsuttaṃ
+4 12. āḷavakasuttaṃ
+2 11. sakkasaṃyuttaṃ
+3 1. paṭhamavaggo
+4 1. suvīrasuttaṃ
+4 2. susīmasuttaṃ
+4 3. dhajaggasuttaṃ
+4 4. vepacittisuttaṃ
+4 5. subhāsitajayasuttaṃ
+4 6. kulāvakasuttaṃ
+4 7. nadubbhiyasuttaṃ
+4 8. verocanāsurindasuttaṃ
+4 9. araññāyatanaisisuttaṃ
+4 10. samuddakasuttaṃ
+3 2. dutiyavaggo
+4 1. vatapadasuttaṃ
+4 2. sakkanāmasuttaṃ
+4 3. mahālisuttaṃ
+4 4. daliddasuttaṃ
+4 5. rāmaṇeyyakasuttaṃ
+4 6. yajamānasuttaṃ
+4 7. buddhavandanāsuttaṃ
+4 8. gahaṭṭhavandanāsuttaṃ
+4 9. satthāravandanāsuttaṃ
+4 10. saṅghavandanāsuttaṃ
+3 3. tatiyavaggo
+4 1. chetvāsuttaṃ
+4 2. dubbaṇṇiyasuttaṃ
+4 3. sambarimāyāsuttaṃ
+4 4. accayasuttaṃ
+4 5. akkodhasuttaṃ
+a nidānavaggo
+2 1. nidānasaṃyuttaṃ
+3 1. buddhavaggo
+4 1. paṭiccasamuppādasuttaṃ
+4 2. vibhaṅgasuttaṃ
+4 3. paṭipadāsuttaṃ
+4 4. vipassīsuttaṃ
+4 5. sikhīsuttaṃ
+4 6. vessabhūsuttaṃ
+4 7. kakusandhasuttaṃ
+4 8. koṇāgamanasuttaṃ
+4 9. kassapasuttaṃ
+4 10. gotamasuttaṃ
+3 2. āhāravaggo
+4 1. āhārasuttaṃ
+4 2. moḷiyaphaggunasuttaṃ
+4 3. samaṇabrāhmaṇasuttaṃ
+4 4. dutiyasamaṇabrāhmaṇasuttaṃ
+4 5. kaccānagottasuttaṃ
+4 6. dhammakathikasuttaṃ
+4 7. acelakassapasuttaṃ
+4 8. timbarukasuttaṃ
+4 9. bālapaṇḍitasuttaṃ
+4 10. paccayasuttaṃ
+3 3. dasabalavaggo
+4 1. dasabalasuttaṃ
+4 2. dutiyadasabalasuttaṃ
+4 3. upanisasuttaṃ
+4 4. aññatitthiyasuttaṃ
+4 5. bhūmijasuttaṃ
+4 6. upavāṇasuttaṃ
+4 7. paccayasuttaṃ
+4 8. bhikkhusuttaṃ
+4 9. samaṇabrāhmaṇasuttaṃ
+4 10. dutiyasamaṇabrāhmaṇasuttaṃ
+3 4. kaḷārakhattiyavaggo
+4 1. bhūtasuttaṃ
+4 2. kaḷārasuttaṃ
+4 3. ñāṇavatthusuttaṃ
+4 4. dutiyañāṇavatthusuttaṃ
+4 5. avijjāpaccayasuttaṃ
+4 6. dutiyāvijjāpaccayasuttaṃ
+4 7. natumhasuttaṃ
+4 8. cetanāsuttaṃ
+4 9. dutiyacetanāsuttaṃ
+4 10. tatiyacetanāsuttaṃ
+3 5. gahapativaggo
+4 1. pañcaverabhayasuttaṃ
+4 2. dutiyapañcaverabhayasuttaṃ
+4 3. dukkhasuttaṃ
+4 4. lokasuttaṃ
+4 5. ñātikasuttaṃ
+4 6. aññatarabrāhmaṇasuttaṃ
+4 7. jāṇussoṇisuttaṃ
+4 8. lokāyatikasuttaṃ
+4 9. ariyasāvakasuttaṃ
+4 10. dutiyāriyasāvakasuttaṃ
+3 6. dukkhavaggo
+4 1. parivīmaṃsanasuttaṃ
+4 2. upādānasuttaṃ
+4 3. saṃyojanasuttaṃ
+4 4. dutiyasaṃyojanasuttaṃ
+4 5. mahārukkhasuttaṃ
+4 6. dutiyamahārukkhasuttaṃ
+4 7. taruṇarukkhasuttaṃ
+4 8. nāmarūpasuttaṃ
+4 9. viññāṇasuttaṃ
+4 10. nidānasuttaṃ
+3 7. mahāvaggo
+4 1. assutavāsuttaṃ
+4 2. dutiyāssutavāsuttaṃ
+4 3. puttamaṃsūpamasuttaṃ
+4 4. atthirāgasuttaṃ
+4 5. nagarasuttaṃ
+4 6. sammasasuttaṃ
+4 7. naḷakalāpīsuttaṃ
+4 8. kosambisuttaṃ
+4 9. upayantisuttaṃ
+4 10. susimasuttaṃ
+3 8. samaṇabrāhmaṇavaggo
+4 1. jarāmaraṇasuttaṃ
+4 2-11. jātisuttādidasakaṃ
+3 9. antarapeyyālaṃ
+4 1. satthusuttaṃ
+4 2-11. dutiyasatthusuttādidasakaṃ
+4 2-12. sikkhāsuttādipeyyālaekādasakaṃ
+2 2. abhisamayasaṃyuttaṃ
+4 1. nakhasikhāsuttaṃ
+4 2. pokkharaṇīsuttaṃ
+4 3. sambhejjaudakasuttaṃ
+4 4. dutiyasambhejjaudakasuttaṃ
+4 5. pathavīsuttaṃ
+4 6. dutiyapathavīsuttaṃ
+4 7. samuddasuttaṃ
+4 8. dutiyasamuddasuttaṃ
+4 9. pabbatasuttaṃ
+4 10. dutiyapabbatasuttaṃ
+4 11. tatiyapabbatasuttaṃ
+2 3. dhātusaṃyuttaṃ
+3 1. nānattavaggo
+4 1. dhātunānattasuttaṃ
+4 2. phassanānattasuttaṃ
+4 3. nophassanānattasuttaṃ
+4 4. vedanānānattasuttaṃ
+4 5. dutiyavedanānānattasuttaṃ
+4 6. bāhiradhātunānattasuttaṃ
+4 7. saññānānattasuttaṃ
+4 8. nopariyesanānānattasuttaṃ
+4 9. bāhiraphassanānattasuttaṃ
+4 10. dutiyabāhiraphassanānattasuttaṃ
+3 2. dutiyavaggo
+4 1. sattadhātusuttaṃ
+4 2. sanidānasuttaṃ
+4 3. giñjakāvasathasuttaṃ
+4 4. hīnādhimuttikasuttaṃ
+4 5. caṅkamasuttaṃ
+4 6. sagāthāsuttaṃ
+4 7. assaddhasaṃsandanasuttaṃ
+4 8. assaddhamūlakasuttaṃ
+4 9. ahirikamūlakasuttaṃ
+4 10. anottappamūlakasuttaṃ
+4 11. appassutamūlakasuttaṃ
+4 12. kusītamūlakasuttaṃ
+3 3. kammapathavaggo
+4 1. asamāhitasuttaṃ
+4 2. dussīlasuttaṃ
+4 3. pañcasikkhāpadasuttaṃ
+4 4. sattakammapathasuttaṃ
+4 5. dasakammapathasuttaṃ
+4 6. aṭṭhaṅgikasuttaṃ
+4 7. dasaṅgasuttaṃ
+3 4. catutthavaggo
+4 1. catudhātusuttaṃ
+4 2. pubbesambodhasuttaṃ
+4 3. acariṃsuttaṃ
+4 4. nocedaṃsuttaṃ
+4 5. ekantadukkhasuttaṃ
+4 6. abhinandasuttaṃ
+4 7. uppādasuttaṃ
+4 8. samaṇabrāhmaṇasuttaṃ
+4 9. dutiyasamaṇabrāhmaṇasuttaṃ
+4 10. tatiyasamaṇabrāhmaṇasuttaṃ
+2 4. anamataggasaṃyuttaṃ
+3 1. paṭhamavaggo
+4 1. tiṇakaṭṭhasuttaṃ
+4 2. pathavīsuttaṃ
+4 3. assusuttaṃ
+4 4. khīrasuttaṃ
+4 5. pabbatasuttaṃ
+4 6. sāsapasuttaṃ
+4 7. sāvakasuttaṃ
+4 8. gaṅgāsuttaṃ
+4 9. daṇḍasuttaṃ
+4 10. puggalasuttaṃ
+3 2. dutiyavaggo
+4 1. duggatasuttaṃ
+4 2. sukhitasuttaṃ
+4 3. tiṃsamattasuttaṃ
+4 4. mātusuttaṃ
+4 5. pitusuttaṃ
+4 6. bhātusuttaṃ
+4 7. bhaginisuttaṃ
+4 8. puttasuttaṃ
+4 9. dhītusuttaṃ
+4 10. vepullapabbatasuttaṃ
+2 5. kassapasaṃyuttaṃ
+4 1. santuṭṭhasuttaṃ
+4 2. anottappīsuttaṃ
+4 3. candūpamasuttaṃ
+4 4. kulūpakasuttaṃ
+4 5. jiṇṇasuttaṃ
+4 6. ovādasuttaṃ
+4 7. dutiyaovādasuttaṃ
+4 8. tatiyaovādasuttaṃ
+4 9. jhānābhiññasuttaṃ
+4 10. upassayasuttaṃ
+4 11. cīvarasuttaṃ
+4 12. paraṃmaraṇasuttaṃ
+4 13. saddhammappatirūpakasuttaṃ
+2 6. lābhasakkārasaṃyuttaṃ
+3 1. paṭhamavaggo
+4 1. dāruṇasuttaṃ
+4 2. baḷisasuttaṃ
+4 3. kummasuttaṃ
+4 4. dīghalomikasuttaṃ
+4 5. mīḷhakasuttaṃ
+4 6. asanisuttaṃ
+4 7. diddhasuttaṃ
+4 8. siṅgālasuttaṃ
+4 9. verambhasuttaṃ
+4 10. sagāthakasuttaṃ
+3 2. dutiyavaggo
+4 1. suvaṇṇapātisuttaṃ
+4 2. rūpiyapātisuttaṃ
+4 3-10. suvaṇṇanikkhasuttādiaṭṭhakaṃ
+3 3. tatiyavaggo
+4 1. mātugāmasuttaṃ
+4 2. kalyāṇīsuttaṃ
+4 3. ekaputtakasuttaṃ
+4 4. ekadhītusuttaṃ
+4 5. samaṇabrāhmaṇasuttaṃ
+4 6. dutiyasamaṇabrāhmaṇasuttaṃ
+4 7. tatiyasamaṇabrāhmaṇasuttaṃ
+4 8. chavisuttaṃ
+4 9. rajjusuttaṃ
+4 10. bhikkhusuttaṃ
+3 4. catutthavaggo
+4 1. bhindisuttaṃ
+4 2. kusalamūlasuttaṃ
+4 3. kusaladhammasuttaṃ
+4 4. sukkadhammasuttaṃ
+4 5. acirapakkantasuttaṃ
+4 6. pañcarathasatasuttaṃ
+4 7. mātusuttaṃ
+4 8-13. pitusuttādichakkaṃ
+2 7. rāhulasaṃyuttaṃ
+3 1. paṭhamavaggo
+4 1. cakkhusuttaṃ
+4 2. rūpasuttaṃ
+4 3. viññāṇasuttaṃ
+4 4. samphassasuttaṃ
+4 5. vedanāsuttaṃ
+4 6. saññāsuttaṃ
+4 7. sañcetanāsuttaṃ
+4 8. taṇhāsuttaṃ
+4 9. dhātusuttaṃ
+4 10. khandhasuttaṃ
+3 2. dutiyavaggo
+4 1. cakkhusuttaṃ
+4 2-10. rūpādisuttanavakaṃ
+4 11. anusayasuttaṃ
+4 12. apagatasuttaṃ
+2 8. lakkhaṇasaṃyuttaṃ
+3 1. paṭhamavaggo
+4 1. aṭṭhisuttaṃ
+4 2. pesisuttaṃ
+4 3. piṇḍasuttaṃ
+4 4. nicchavisuttaṃ
+4 5. asilomasuttaṃ
+4 6. sattisuttaṃ
+4 7. usulomasuttaṃ
+4 8. sūcilomasuttaṃ
+4 9. dutiyasūcilomasuttaṃ
+4 10. kumbhaṇḍasuttaṃ
+3 2. dutiyavaggo
+4 1. sasīsakasuttaṃ
+4 2. gūthakhādasuttaṃ
+4 3. nicchavitthisuttaṃ
+4 4. maṅgulitthisuttaṃ
+4 5. okilinīsuttaṃ
+4 6. asīsakasuttaṃ
+4 7. pāpabhikkhusuttaṃ
+4 8. pāpabhikkhunīsuttaṃ
+4 9. pāpasikkhamānasuttaṃ
+4 10. pāpasāmaṇerasuttaṃ
+4 11. pāpasāmaṇerīsuttaṃ
+2 9. opammasaṃyuttaṃ
+4 1. kūṭasuttaṃ
+4 2. nakhasikhasuttaṃ
+4 3. kulasuttaṃ
+4 4. okkhāsuttaṃ
+4 5. sattisuttaṃ
+4 6. dhanuggahasuttaṃ
+4 7. āṇisuttaṃ
+4 8. kaliṅgarasuttaṃ
+4 9. nāgasuttaṃ
+4 10. biḷārasuttaṃ
+4 11. siṅgālasuttaṃ
+4 12. dutiyasiṅgālasuttaṃ
+2 10. bhikkhusaṃyuttaṃ
+4 1. kolitasuttaṃ
+4 2. upatissasuttaṃ
+4 3. ghaṭasuttaṃ
+4 4. navasuttaṃ
+4 5. sujātasuttaṃ
+4 6. lakuṇḍakabhaddiyasuttaṃ
+4 7. visākhasuttaṃ
+4 8. nandasuttaṃ
+4 9. tissasuttaṃ
+4 10. theranāmakasuttaṃ
+4 11. mahākappinasuttaṃ
+4 12. sahāyakasuttaṃ
+a khandhavaggo
+2 1. khandhasaṃyuttaṃ
+3 1. nakulapituvaggo
+4 1. nakulapitusuttaṃ
+4 2. devadahasuttaṃ
+4 3. hāliddikānisuttaṃ
+4 4. dutiyahāliddikānisuttaṃ
+4 5. samādhisuttaṃ
+4 6. paṭisallāṇasuttaṃ
+4 7. upādāparitassanāsuttaṃ
+4 8. dutiyaupādāparitassanāsuttaṃ
+4 9. kālattayāniccasuttaṃ
+4 10. kālattayadukkhasuttaṃ
+4 11. kālattayānattasuttaṃ
+3 2. aniccavaggo
+4 1. aniccasuttaṃ
+4 2. dukkhasuttaṃ
+4 3. anattasuttaṃ
+4 4. yadaniccasuttaṃ
+4 5. yaṃdukkhasuttaṃ
+4 6. yadanattāsuttaṃ
+4 7. sahetuaniccasuttaṃ
+4 8. sahetudukkhasuttaṃ
+4 9. sahetuanattasuttaṃ
+4 10. ānandasuttaṃ
+3 3. bhāravaggo
+4 1. bhārasuttaṃ
+4 2. pariññasuttaṃ
+4 3. abhijānasuttaṃ
+4 4. chandarāgasuttaṃ
+4 5. assādasuttaṃ
+4 6. dutiyāssādasuttaṃ
+4 7. tatiyāssādasuttaṃ
+4 8. abhinandanasuttaṃ
+4 9. uppādasuttaṃ
+4 10. aghamūlasuttaṃ
+4 11. pabhaṅgusuttaṃ
+3 4. natumhākaṃvaggo
+4 1. natumhākaṃsuttaṃ
+4 2. dutiyanatumhākaṃsuttaṃ
+4 3. aññatarabhikkhusuttaṃ
+4 4. dutiyāññatarabhikkhusuttaṃ
+4 5. ānandasuttaṃ
+4 6. dutiyāanandasuttaṃ
+4 7. anudhammasuttaṃ
+4 8. dutiyānudhammasuttaṃ
+4 9. tatiyānudhammasuttaṃ
+4 10. catutthānudhammasuttaṃ
+3 5. attadīpavaggo
+4 1. attadīpasuttaṃ
+4 2. paṭipadāsuttaṃ
+4 3. aniccasuttaṃ
+4 4. dutiyāniccasuttaṃ
+4 5. samanupassanāsuttaṃ
+4 6. khandhasuttaṃ
+4 7. soṇasuttaṃ
+4 8. dutiyasoṇasuttaṃ
+4 9. nandikkhayasuttaṃ
+4 10. dutiyanandikkhayasuttaṃ
+3 6. upayavaggo
+4 1. upayasuttaṃ
+4 2. bījasuttaṃ
+4 3. udānasuttaṃ
+4 4. upādānaparipavattasuttaṃ
+4 5. sattaṭṭhānasuttaṃ
+4 6. sammāsambuddhasuttaṃ
+4 7. anattalakkhaṇasuttaṃ
+4 8. mahālisuttaṃ
+4 9. ādittasuttaṃ
+4 10. niruttipathasuttaṃ
+3 7. arahantavaggo
+4 1. upādiyamānasuttaṃ
+4 2. maññamānasuttaṃ
+4 3. abhinandamānasuttaṃ
+4 4. aniccasuttaṃ
+4 5. dukkhasuttaṃ
+4 6. anattasuttaṃ
+4 7. anattaniyasuttaṃ
+4 8. rajanīyasaṇṭhitasuttaṃ
+4 9. rādhasuttaṃ
+4 10. surādhasuttaṃ
+3 8. khajjanīyavaggo
+4 1. assādasuttaṃ
+4 2. samudayasuttaṃ
+4 3. dutiyasamudayasuttaṃ
+4 4. arahantasuttaṃ
+4 5. dutiyārahantasuttaṃ
+4 6. sīhasuttaṃ
+4 7. khajjanīyasuttaṃ
+4 8. piṇḍolyasuttaṃ
+4 9. pālileyyasuttaṃ
+4 10. puṇṇamasuttaṃ
+3 9. theravaggo
+4 1. ānandasuttaṃ
+4 2. tissasuttaṃ
+4 3. yamakasuttaṃ
+4 4. anurādhasuttaṃ
+4 5. vakkalisuttaṃ
+4 6. assajisuttaṃ
+4 7. khemakasuttaṃ
+4 8. channasuttaṃ
+4 9. rāhulasuttaṃ
+4 10. dutiyarāhulasuttaṃ
+3 10. pupphavaggo
+4 1. nadīsuttaṃ
+4 2. pupphasuttaṃ
+4 3. pheṇapiṇḍūpamasuttaṃ
+4 4. gomayapiṇḍasuttaṃ
+4 5. nakhasikhāsuttaṃ
+4 6. suddhikasuttaṃ
+4 7. gaddulabaddhasuttaṃ
+4 8. dutiyagaddulabaddhasuttaṃ
+4 9. vāsijaṭasuttaṃ
+4 10. aniccasaññāsuttaṃ
+3 11. antavaggo
+4 1. antasuttaṃ
+4 2. dukkhasuttaṃ
+4 3. sakkāyasuttaṃ
+4 4. pariññeyyasuttaṃ
+4 5. samaṇasuttaṃ
+4 6. dutiyasamaṇasuttaṃ
+4 7. sotāpannasuttaṃ
+4 8. arahantasuttaṃ
+4 9. chandappahānasuttaṃ
+4 10. dutiyachandappahānasuttaṃ
+3 12. dhammakathikavaggo
+4 1. avijjāsuttaṃ
+4 2. vijjāsuttaṃ
+4 3. dhammakathikasuttaṃ
+4 4. dutiyadhammakathikasuttaṃ
+4 5. bandhanasuttaṃ
+4 6. paripucchitasuttaṃ
+4 7. dutiyaparipucchitasuttaṃ
+4 8. saṃyojaniyasuttaṃ
+4 9. upādāniyasuttaṃ
+4 10. sīlavantasuttaṃ
+4 11. sutavantasuttaṃ
+4 12. kappasuttaṃ
+4 13. dutiyakappasuttaṃ
+3 13. avijjāvaggo
+4 1. samudayadhammasuttaṃ
+4 2. dutiyasamudayadhammasuttaṃ
+4 3. tatiyasamudayadhammasuttaṃ
+4 4. assādasuttaṃ
+4 5. dutiyāssādasuttaṃ
+4 6. samudayasuttaṃ
+4 7. dutiyasamudayasuttaṃ
+4 8. koṭṭhikasuttaṃ
+4 9. dutiyakoṭṭhikasuttaṃ
+4 10. tatiyakoṭṭhikasuttaṃ
+3 14. kukkuḷavaggo
+4 1. kukkuḷasuttaṃ
+4 2. aniccasuttaṃ
+4 3. dutiyāniccasuttaṃ
+4 4. tatiyāniccasuttaṃ
+4 5. dukkhasuttaṃ
+4 6. dutiyadukkhasuttaṃ
+4 7. tatiyadukkhasuttaṃ
+4 8. anattasuttaṃ
+4 9. dutiyānattasuttaṃ
+4 10. tatiyānattasuttaṃ
+4 11. nibbidābahulasuttaṃ
+4 12. aniccānupassīsuttaṃ
+4 13. dukkhānupassīsuttaṃ
+4 14. anattānupassīsuttaṃ
+3 15. diṭṭhivaggo
+4 1. ajjhattasuttaṃ
+4 2. etaṃmamasuttaṃ
+4 3. soattāsuttaṃ
+4 4. nocamesiyāsuttaṃ
+4 5. micchādiṭṭhisuttaṃ
+4 6. sakkāyadiṭṭhisuttaṃ
+4 7. attānudiṭṭhisuttaṃ
+4 8. abhinivesasuttaṃ
+4 9. dutiyābhinivesasuttaṃ
+4 10. ānandasuttaṃ
+2 2. rādhasaṃyuttaṃ
+3 1. paṭhamavaggo
+4 1. mārasuttaṃ
+4 2. sattasuttaṃ
+4 3. bhavanettisuttaṃ
+4 4. pariññeyyasuttaṃ
+4 5. samaṇasuttaṃ
+4 6. dutiyasamaṇasuttaṃ
+4 7. sotāpannasuttaṃ
+4 8. arahantasuttaṃ
+4 9. chandarāgasuttaṃ
+4 10. dutiyachandarāgasuttaṃ
+3 2. dutiyavaggo
+4 1. mārasuttaṃ
+4 2. māradhammasuttaṃ
+4 3. aniccasuttaṃ
+4 4. aniccadhammasuttaṃ
+4 5. dukkhasuttaṃ
+4 6. dukkhadhammasuttaṃ
+4 7. anattasuttaṃ
+4 8. anattadhammasuttaṃ
+4 9.khayadhammasuttaṃ
+4 10. vayadhammasuttaṃ
+4 11. samudayadhammasuttaṃ
+4 12. nirodhadhammasuttaṃ
+3 3. āyācanavaggo
+4 1-11. mārādisuttaekādasakaṃ
+4 12. nirodhadhammasuttaṃ
+3 4. upanisinnavaggo
+4 1-11. mārādisuttaekādasakaṃ
+4 12. nirodhadhammasuttaṃ
+2 3. diṭṭhisaṃyuttaṃ
+3 1. sotāpattivaggo
+4 1. vātasuttaṃ
+4 2. etaṃmamasuttaṃ
+4 3. soattāsuttaṃ
+4 4. nocamesiyāsuttaṃ
+4 5. natthidinnasuttaṃ
+4 6. karotosuttaṃ
+4 7. hetusuttaṃ
+4 8. mahādiṭṭhisuttaṃ
+4 9. sassatadiṭṭhisuttaṃ
+4 10. asassatadiṭṭhisuttaṃ
+4 11. antavāsuttaṃ
+4 12. anantavāsuttaṃ
+4 13. taṃjīvaṃtaṃsarīraṃsuttaṃ
+4 14. aññaṃjīvaṃaññaṃsarīraṃsuttaṃ
+4 15. hotitathāgatosuttaṃ
+4 16. nahotitathāgatosuttaṃ
+4 17. hoticanacahotitathāgatosuttaṃ
+4 18. nevahotinanahotitathāgatosuttaṃ
+3 2. dutiyagamanavaggo
+4 1. vātasuttaṃ
+4 18. nevahotinanahotisuttaṃ
+4 19. rūpīattāsuttaṃ
+4 20. arūpīattāsuttaṃ
+4 21. rūpīcārūpīcāttāsuttaṃ
+4 22. nevarūpīnārūpīattāsuttaṃ
+4 23. ekantasukhīsuttaṃ
+4 24. ekantadukkhīsuttaṃ
+4 25. sukhadukkhīsuttaṃ
+4 26. adukkhamasukhīsuttaṃ
+3 3. tatiyagamanavaggo
+4 1. navātasuttaṃ
+4 26. adukkhamasukhīsuttaṃ
+3 4. catutthagamanavaggo
+4 1. navātasuttaṃ
+4 26. adukkhamasukhīsuttaṃ
+2 4. okkantasaṃyuttaṃ
+4 1. cakkhusuttaṃ
+4 2. rūpasuttaṃ
+4 3. viññāṇasuttaṃ
+4 4. samphassasuttaṃ
+4 5. samphassajāsuttaṃ
+4 6. rūpasaññāsuttaṃ
+4 7. rūpasañcetanāsuttaṃ
+4 8. rūpataṇhāsuttaṃ
+4 9. pathavīdhātusuttaṃ
+4 10. khandhasuttaṃ
+2 5. uppādasaṃyuttaṃ
+4 1. cakkhusuttaṃ
+4 2. rūpasuttaṃ
+4 3. viññāṇasuttaṃ
+4 4. samphassasuttaṃ
+4 5. samphassajasuttaṃ
+4 6. saññāsuttaṃ
+4 7. sañcetanāsuttaṃ
+4 8. taṇhāsuttaṃ
+4 9. dhātusuttaṃ
+4 10. khandhasuttaṃ
+2 6. kilesasaṃyuttaṃ
+4 1. cakkhusuttaṃ
+4 2. rūpasuttaṃ
+4 3. viññāṇasuttaṃ
+4 4. samphassasuttaṃ
+4 5. samphassajasuttaṃ
+4 6. saññāsuttaṃ
+4 7. sañcetanāsuttaṃ
+4 8. taṇhāsuttaṃ
+4 9. dhātusuttaṃ
+4 10. khandhasuttaṃ
+2 7. sāriputtasaṃyuttaṃ
+4 1. vivekajasuttaṃ
+4 2. avitakkasuttaṃ
+4 3. pītisuttaṃ
+4 4. upekkhāsuttaṃ
+4 5. ākāsānañcāyatanasuttaṃ
+4 6. viññāṇañcāyatanasuttaṃ
+4 7. ākiñcaññāyatanasuttaṃ
+4 8. nevasaññānāsaññāyatanasuttaṃ
+4 9. nirodhasamāpattisuttaṃ
+4 10. sūcimukhīsuttaṃ
+2 8. nāgasaṃyuttaṃ
+4 1. suddhikasuttaṃ
+4 2. paṇītatarasuttaṃ
+4 3. uposathasuttaṃ
+4 4. dutiyauposathasuttaṃ
+4 5. tatiyauposathasuttaṃ
+4 6. catutthauposathasuttaṃ
+4 7. sutasuttaṃ
+4 8. dutiyasutasuttaṃ
+4 9. tatiyasutasuttaṃ
+4 10. catutthasutasuttaṃ
+4 11-20. aṇḍajadānūpakārasuttadasakaṃ
+4 21-50. jalābujādidānūpakārasuttattiṃsakaṃ
+2 9. supaṇṇasaṃyuttaṃ
+4 1. suddhikasuttaṃ
+4 2. harantisuttaṃ
+4 3. dvayakārīsuttaṃ
+4 4-6. dutiyādidvayakārīsuttattikaṃ
+4 7-16. aṇḍajadānūpakārasuttadasakaṃ
+4 17-46. jalābujādidānūpakārasuttatiṃsakaṃ
+2 10. gandhabbakāyasaṃyuttaṃ
+4 1. suddhikasuttaṃ
+4 2. sucaritasuttaṃ
+4 3. mūlagandhadātāsuttaṃ
+4 4-12. sāragandhādidātāsuttanavakaṃ
+4 13-22. mūlagandhadānūpakārasuttadasakaṃ
+4 23-112. sāragandhādidānūpakārasuttanavutikaṃ
+2 11. valāhakasaṃyuttaṃ
+4 1. suddhikasuttaṃ
+4 2. sucaritasuttaṃ
+4 3-12. sītavalāhakadānūpakārasuttadasakaṃ
+4 13-52. uṇhavalāhakadānūpakārasuttacālīsakaṃ
+4 53. sītavalāhakasuttaṃ
+4 54. uṇhavalāhakasuttaṃ
+4 55. abbhavalāhakasuttaṃ
+4 56. vātavalāhakasuttaṃ
+4 57. vassavalāhakasuttaṃ
+2 12. vacchagottasaṃyuttaṃ
+4 1. rūpāññāṇasuttaṃ
+4 2. vedanāaññāṇasuttaṃ
+4 3. saññāaññāṇasuttaṃ
+4 4. saṅkhārāññāṇasuttaṃ
+4 5. viññāṇāññāṇasuttaṃ
+4 6-10. rūpādassanādisuttapañcakaṃ
+4 11-15. rūpānabhisamayādisuttapañcakaṃ
+4 16-20. rūpānanubodhādisuttapañcakaṃ
+4 21-25. rūpāppaṭivedhādisuttapañcakaṃ
+4 26-30. rūpāsallakkhaṇādisuttapañcakaṃ
+4 31-35. rūpānupalakkhaṇādisuttapañcakaṃ
+4 36-40. rūpāppaccupalakkhaṇādisuttapañcakaṃ
+4 41-45. rūpāsamapekkhaṇādisuttapañcakaṃ
+4 46-50. rūpāppaccupekkhaṇādisuttapañcakaṃ
+4 51-54. rūpāppaccakkhakammādisuttacatukkaṃ
+4 55. viññāṇāppaccakkhakammasuttaṃ
+2 13. jhānasaṃyuttaṃ
+4 1. samādhimūlakasamāpattisuttaṃ
+4 2. samādhimūlakaṭhitisuttaṃ
+4 3. samādhimūlakavuṭṭhānasuttaṃ
+4 4. samādhimūlakakallitasuttaṃ
+4 5. samādhimūlakāarammaṇasuttaṃ
+4 6. samādhimūlakagocarasuttaṃ
+4 7. samādhimūlakābhinīhārasuttaṃ
+4 8. samādhimūlakasakkaccakārīsuttaṃ
+4 9. samādhimūlakasātaccakārīsuttaṃ
+4 10. samādhimūlakasappāyakārīsuttaṃ
+4 11. samāpattimūlakaṭhitisuttaṃ
+4 12. samāpattimūlakavuṭṭhānasuttaṃ
+4 13. samāpattimūlakakallitasuttaṃ
+4 14. samāpattimūlakāarammaṇasuttaṃ
+4 15. samāpattimūlakagocarasuttaṃ
+4 16. samāpattimūlakābhinīhārasuttaṃ
+4 17. samāpattimūlakasakkaccasuttaṃ
+4 18. samāpattimūlakasātaccasuttaṃ
+4 19. samāpattimūlakasappāyakārīsuttaṃ
+4 20-27. ṭhitimūlakavuṭṭhānasuttādiaṭṭhakaṃ
+4 28-34. vuṭṭhānamūlakakallitasuttādisattakaṃ
+4 35-40. kallitamūlakāarammaṇasuttādichakkaṃ
+4 41-45. ārammaṇamūlakagocarasuttādipañcakaṃ
+4 46-49. gocaramūlakābhinīhārasuttādicatukkaṃ
+4 50-52. abhinīhāramūlakasakkaccasuttāditikaṃ
+4 53-54. sakkaccamūlakasātaccakārīsuttādidukaṃ
+4 55. sātaccamūlakasappāyakārīsuttaṃ
+a saḷāyatanavaggo
+2 1. saḷāyatanasaṃyuttaṃ
+3 1. aniccavaggo
+4 1. ajjhattāniccasuttaṃ
+4 2. ajjhattadukkhasuttaṃ
+4 3. ajjhattānattasuttaṃ
+4 4. bāhirāniccasuttaṃ
+4 5. bāhiradukkhasuttaṃ
+4 6. bāhirānattasuttaṃ
+4 7. ajjhattāniccātītānāgatasuttaṃ
+4 8. ajjhattadukkhātītānāgatasuttaṃ
+4 9. ajjhattānattātītānāgatasuttaṃ
+4 10. bāhirāniccātītānāgatasuttaṃ
+4 11. bāhiradukkhātītānāgatasuttaṃ
+4 12. bāhirānattātītānāgatasuttaṃ
+3 2. yamakavaggo
+4 1. paṭhamapubbesambodhasuttaṃ
+4 2. dutiyapubbesambodhasuttaṃ
+4 3. paṭhamāssādapariyesanasuttaṃ
+4 4. dutiyāssādapariyesanasuttaṃ
+4 5. paṭhamanoceassādasuttaṃ
+4 6. dutiyanoceassādasuttaṃ
+4 7. paṭhamābhinandasuttaṃ
+4 8. dutiyābhinandasuttaṃ
+4 9. paṭhamadukkhuppādasuttaṃ
+4 10. dutiyadukkhuppādasuttaṃ
+3 3. sabbavaggo
+4 1. sabbasuttaṃ
+4 2. pahānasuttaṃ
+4 3. abhiññāpariññāpahānasuttaṃ
+4 4. paṭhamāparijānanasuttaṃ
+4 5. dutiyāparijānanasuttaṃ
+4 6. ādittasuttaṃ
+4 7. addhabhūtasuttaṃ
+4 8. samugghātasāruppasuttaṃ
+4 9. paṭhamasamugghātasappāyasuttaṃ
+4 10. dutiyasamugghātasappāyasuttaṃ
+3 4. jātidhammavaggo
+4 1-10. jātidhammādisuttadasakaṃ
+3 5. sabbāniccavaggo
+4 1-9. aniccādisuttanavakaṃ
+4 10. upassaṭṭhasuttaṃ
+3 6. avijjāvaggo
+4 1. avijjāpahānasuttaṃ
+4 2. saṃyojanapahānasuttaṃ
+4 3. saṃyojanasamugghātasuttaṃ
+4 4. āsavapahānasuttaṃ
+4 5. āsavasamugghātasuttaṃ
+4 6. anusayapahānasuttaṃ
+4 7. anusayasamugghātasuttaṃ
+4 8. sabbupādānapariññāsuttaṃ
+4 9. paṭhamasabbupādānapariyādānasuttaṃ
+4 10. dutiyasabbupādānapariyādānasuttaṃ
+3 7. migajālavaggo
+4 1. paṭhamamigajālasuttaṃ
+4 2. dutiyamigajālasuttaṃ
+4 3. paṭhamasamiddhimārapañhāsuttaṃ
+4 4. samiddhisattapañhāsuttaṃ
+4 5. samiddhidukkhapañhāsuttaṃ
+4 6. samiddhilokapañhāsuttaṃ
+4 7. upasenāasīvisasuttaṃ
+4 8. upavāṇasandiṭṭhikasuttaṃ
+4 9. paṭhamachaphassāyatanasuttaṃ
+4 10. dutiyachaphassāyatanasuttaṃ
+4 11. tatiyachaphassāyatanasuttaṃ
+3 8. gilānavaggo
+4 1. paṭhamagilānasuttaṃ
+4 2. dutiyagilānasuttaṃ
+4 3. rādhāniccasuttaṃ
+4 4. rādhadukkhasuttaṃ
+4 5. rādhānattasuttaṃ
+4 6. paṭhamāvijjāpahānasuttaṃ
+4 7. dutiyāvijjāpahānasuttaṃ
+4 8. sambahulabhikkhusuttaṃ
+4 9. lokapañhāsuttaṃ
+4 10. phaggunapañhāsuttaṃ
+3 9. channavaggo
+4 1. palokadhammasuttaṃ
+4 2. suññatalokasuttaṃ
+4 3. saṃkhittadhammasuttaṃ
+4 4. channasuttaṃ
+4 5. puṇṇasuttaṃ
+4 6. bāhiyasuttaṃ
+4 7. paṭhamaejāsuttaṃ
+4 8. dutiyaejāsuttaṃ
+4 9. paṭhamadvayasuttaṃ
+4 10. dutiyadvayasuttaṃ
+3 10. saḷavaggo
+4 1. adantāguttasuttaṃ
+4 2. mālukyaputtasuttaṃ
+4 3. parihānadhammasuttaṃ
+4 4. pamādavihārīsuttaṃ
+4 5. saṃvarasuttaṃ
+4 6. samādhisuttaṃ
+4 7. paṭisallānasuttaṃ
+4 8. paṭhamanatumhākaṃsuttaṃ
+4 9. dutiyanatumhākaṃsuttaṃ
+4 10. udakasuttaṃ
+3 11. yogakkhemivaggo
+4 1. yogakkhemisuttaṃ
+4 2. upādāyasuttaṃ
+4 3. dukkhasamudayasuttaṃ
+4 4. lokasamudayasuttaṃ
+4 5. seyyohamasmisuttaṃ
+4 6. saṃyojaniyasuttaṃ
+4 7. upādāniyasuttaṃ
+4 8. ajjhattikāyatanaparijānanasuttaṃ
+4 9. bāhirāyatanaparijānanasuttaṃ
+4 10. upassutisuttaṃ
+3 12. lokakāmaguṇavaggo
+4 1. paṭhamamārapāsasuttaṃ
+4 2. dutiyamārapāsasuttaṃ
+4 3. lokantagamanasuttaṃ
+4 4. kāmaguṇasuttaṃ
+4 5. sakkapañhasuttaṃ
+4 6. pañcasikhasuttaṃ
+4 7. sāriputtasaddhivihārikasuttaṃ
+4 8. rāhulovādasuttaṃ
+4 9. saṃyojaniyadhammasuttaṃ
+4 10. upādāniyadhammasuttaṃ
+3 13. gahapativaggo
+4 1. vesālīsuttaṃ
+4 2. vajjīsuttaṃ
+4 3. nāḷandasuttaṃ
+4 4. bhāradvājasuttaṃ
+4 5. soṇasuttaṃ
+4 6. ghositasuttaṃ
+4 7. hāliddikānisuttaṃ
+4 8. nakulapitusuttaṃ
+4 9. lohiccasuttaṃ
+4 10. verahaccānisuttaṃ
+3 14. devadahavaggo
+4 1. devadahasuttaṃ
+4 2. khaṇasuttaṃ
+4 3. paṭhamarūpārāmasuttaṃ
+4 4. dutiyarūpārāmasuttaṃ
+4 5. paṭhamanatumhākaṃsuttaṃ
+4 6. dutiyanatumhākaṃsuttaṃ
+4 7. ajjhattāniccahetusuttaṃ
+4 8. ajjhattadukkhahetusuttaṃ
+4 9. ajjhattānattahetusuttaṃ
+4 10. bāhirāniccahetusuttaṃ
+4 11. bāhiradukkhahetusuttaṃ
+4 12. bāhirānattahetusuttaṃ
+3 15. navapurāṇavaggo
+4 1. kammanirodhasuttaṃ
+4 2. aniccanibbānasappāyasuttaṃ
+4 3. dukkhanibbānasappāyasuttaṃ
+4 4. anattanibbānasappāyasuttaṃ
+4 5. nibbānasappāyapaṭipadāsuttaṃ
+4 6. antevāsikasuttaṃ
+4 7. kimatthiyabrahmacariyasuttaṃ
+4 8. atthinukhopariyāyasuttaṃ
+4 9. indriyasampannasuttaṃ
+4 10. dhammakathikapucchasuttaṃ
+3 16. nandikkhayavaggo
+4 1. ajjhattanandikkhayasuttaṃ
+4 2. bāhiranandikkhayasuttaṃ
+4 3. ajjhattāniccanandikkhayasuttaṃ
+4 4. bāhirāniccanandikkhayasuttaṃ
+4 5. jīvakambavanasamādhisuttaṃ
+4 6. jīvakambavanapaṭisallānasuttaṃ
+4 7. koṭṭhikāniccasuttaṃ
+4 8. koṭṭhikadukkhasuttaṃ
+4 9. koṭṭhikānattasuttaṃ
+4 10. micchādiṭṭhipahānasuttaṃ
+4 11. sakkāyadiṭṭhipahānasuttaṃ
+4 12. attānudiṭṭhipahānasuttaṃ
+3 17. saṭṭhipeyyālavaggo
+4 1. ajjhattāniccachandasuttaṃ
+4 2. ajjhattāniccarāgasuttaṃ
+4 3. ajjhattāniccachandarāgasuttaṃ
+4 4-6. dukkhachandādisuttaṃ
+4 7-9. anattachandādisuttaṃ
+4 10-12. bāhirāniccachandādisuttaṃ
+4 13-15. bāhiradukkhachandādisuttaṃ
+4 16-18. bāhirānattachandādisuttaṃ
+4 19. ajjhattātītāniccasuttaṃ
+4 20. ajjhattānāgatāniccasuttaṃ
+4 21. ajjhattapaccuppannāniccasuttaṃ
+4 22-24. ajjhattātītādidukkhasuttaṃ
+4 25-27. ajjhattātītādianattasuttaṃ
+4 28-30. bāhirātītādianiccasuttaṃ
+4 31-33. bāhirātītādidukkhasuttaṃ
+4 34-36. bāhirātītādianattasuttaṃ
+4 37. ajjhattātītayadaniccasuttaṃ
+4 38. ajjhattānāgatayadaniccasuttaṃ
+4 39. ajjhattapaccuppannayadaniccasuttaṃ
+4 40-42. ajjhattātītādiyaṃdukkhasuttaṃ
+4 43-45. ajjhattātītādiyadanattasuttaṃ
+4 46-48. bāhirātītādiyadaniccasuttaṃ
+4 49-51. bāhirātītādiyaṃdukkhasuttaṃ
+4 52-54. bāhirātītādiyadanattasuttaṃ
+4 55. ajjhattāyatanāniccasuttaṃ
+4 56. ajjhattāyatanadukkhasuttaṃ
+4 57. ajjhattāyatanānattasuttaṃ
+4 58. bāhirāyatanāniccasuttaṃ
+4 59. bāhirāyatanadukkhasuttaṃ
+4 60. bāhirāyatanānattasuttaṃ
+3 18. samuddavaggo
+4 1. paṭhamasamuddasuttaṃ
+4 2. dutiyasamuddasuttaṃ
+4 3. bāḷisikopamasuttaṃ
+4 4. khīrarukkhopamasuttaṃ
+4 5. koṭṭhikasuttaṃ
+4 6. kāmabhūsuttaṃ
+4 7. udāyīsuttaṃ
+4 8. ādittapariyāyasuttaṃ
+4 9. paṭhamahatthapādopamasuttaṃ
+4 10. dutiyahatthapādopamasuttaṃ
+3 19. āsīvisavaggo
+4 1. āsīvisopamasuttaṃ
+4 2. rathopamasuttaṃ
+4 3. kummopamasuttaṃ
+4 4. paṭhamadārukkhandhopamasuttaṃ
+4 5. dutiyadārukkhandhopamasuttaṃ
+4 6. avassutapariyāyasuttaṃ
+4 7. dukkhadhammasuttaṃ
+4 8. kiṃsukopamasuttaṃ
+4 9. vīṇopamasuttaṃ
+4 10. chappāṇakopamasuttaṃ
+4 11. yavakalāpisuttaṃ
+2 2. vedanāsaṃyuttaṃ
+3 1. sagāthāvaggo
+4 1. samādhisuttaṃ
+4 2. sukhasuttaṃ
+4 3. pahānasuttaṃ
+4 4. pātālasuttaṃ
+4 5. daṭṭhabbasuttaṃ
+4 6. sallasuttaṃ
+4 7. paṭhamagelaññasuttaṃ
+4 8. dutiyagelaññasuttaṃ
+4 9. aniccasuttaṃ
+4 10. phassamūlakasuttaṃ
+3 2. rahogatavaggo
+4 1. rahogatasuttaṃ
+4 2. paṭhamāakāsasuttaṃ
+4 3. dutiyāakāsasuttaṃ
+4 4. agārasuttaṃ
+4 5. paṭhamāanandasuttaṃ
+4 6. dutiyāanandasuttaṃ
+4 7. paṭhamasambahulasuttaṃ
+4 8. dutiyasambahulasuttaṃ
+4 9. pañcakaṅgasuttaṃ
+4 10. bhikkhusuttaṃ
+3 3. aṭṭhasatapariyāyavaggo
+4 1. sīvakasuttaṃ
+4 2. aṭṭhasatasuttaṃ
+4 3. aññatarabhikkhusuttaṃ
+4 4. pubbasuttaṃ
+4 5. ñāṇasuttaṃ
+4 6. sambahulabhikkhusuttaṃ
+4 7. paṭhamasamaṇabrāhmaṇasuttaṃ
+4 8. dutiyasamaṇabrāhmaṇasuttaṃ
+4 9. tatiyasamaṇabrāhmaṇasuttaṃ
+4 10. suddhikasuttaṃ
+4 11. nirāmisasuttaṃ
+2 3. mātugāmasaṃyuttaṃ
+3 1. paṭhamapeyyālavaggo
+4 1. mātugāmasuttaṃ
+4 2. purisasuttaṃ
+4 3. āveṇikadukkhasuttaṃ
+4 4. tīhidhammehisuttaṃ
+4 5. kodhanasuttaṃ
+4 6. upanāhīsuttaṃ
+4 7. issukīsuttaṃ
+4 8. maccharīsuttaṃ
+4 9. aticārīsuttaṃ
+4 10. dussīlasuttaṃ
+4 11. appassutasuttaṃ
+4 12. kusītasuttaṃ
+4 13. muṭṭhassatisuttaṃ
+4 14. pañcaverasuttaṃ
+3 2. dutiyapeyyālavaggo
+4 1. akkodhanasuttaṃ
+4 2. anupanāhīsuttaṃ
+4 3. anissukīsuttaṃ
+4 4. amaccharīsuttaṃ
+4 5. anaticārīsuttaṃ
+4 6. susīlasuttaṃ
+4 7. bahussutasuttaṃ
+4 8. āraddhavīriyasuttaṃ
+4 9. upaṭṭhitassatisuttaṃ
+4 10. pañcasīlasuttaṃ
+3 3. balavaggo
+4 1. visāradasuttaṃ
+4 2. pasayhasuttaṃ
+4 3. abhibhuyyasuttaṃ
+4 4. ekasuttaṃ
+4 5. aṅgasuttaṃ
+4 6. nāsentisuttaṃ
+4 7. hetusuttaṃ
+4 8. ṭhānasuttaṃ
+4 9. pañcasīlavisāradasuttaṃ
+4 10. vaḍḍhīsuttaṃ
+2 4. jambukhādakasaṃyuttaṃ
+4 1. nibbānapañhāsuttaṃ
+4 2. arahattapañhāsuttaṃ
+4 3. dhammavādīpañhāsuttaṃ
+4 4. kimatthiyasuttaṃ
+4 5. assāsappattasuttaṃ
+4 6. paramassāsappattasuttaṃ
+4 7. vedanāpañhāsuttaṃ
+4 8. āsavapañhāsuttaṃ
+4 9. avijjāpañhāsuttaṃ
+4 10. taṇhāpañhāsuttaṃ
+4 11. oghapañhāsuttaṃ
+4 12. upādānapañhāsuttaṃ
+4 13. bhavapañhāsuttaṃ
+4 14. dukkhapañhāsuttaṃ
+4 15. sakkāyapañhāsuttaṃ
+4 16. dukkarapañhāsuttaṃ
+2 5. sāmaṇḍakasaṃyuttaṃ
+4 1. sāmaṇḍakasuttaṃ
+4 2. dukkarasuttaṃ
+2 6. moggallānasaṃyuttaṃ
+4 1. paṭhamajhānapañhāsuttaṃ
+4 2. dutiyajhānapañhāsuttaṃ
+4 3. tatiyajhānapañhāsuttaṃ
+4 4. catutthajhānapañhāsuttaṃ
+4 5. ākāsānañcāyatanapañhāsuttaṃ
+4 6. viññāṇañcāyatanapañhāsuttaṃ
+4 7. ākiñcaññāyatanapañhāsuttaṃ
+4 8. nevasaññānāsaññāyatanapañhāsuttaṃ
+4 9. animittapañhāsuttaṃ
+4 10. sakkasuttaṃ
+4 11. candanasuttaṃ
+2 7. cittasaṃyuttaṃ
+4 1. saṃyojanasuttaṃ
+4 2. paṭhamaisidattasuttaṃ
+4 3. dutiyaisidattasuttaṃ
+4 4. mahakapāṭihāriyasuttaṃ
+4 5. paṭhamakāmabhūsuttaṃ
+4 6. dutiyakāmabhūsuttaṃ
+4 7. godattasuttaṃ
+4 8. nigaṇṭhanāṭaputtasuttaṃ
+4 9. acelakassapasuttaṃ
+4 10. gilānadassanasuttaṃ
+2 8. gāmaṇisaṃyuttaṃ
+4 1. caṇḍasuttaṃ
+4 2. tālapuṭasuttaṃ
+4 3. yodhājīvasuttaṃ
+4 4. hatthārohasuttaṃ
+4 5. assārohasuttaṃ
+4 6. asibandhakaputtasuttaṃ
+4 7. khettūpamasuttaṃ
+4 8. saṅkhadhamasuttaṃ
+4 9. kulasuttaṃ
+4 10. maṇicūḷakasuttaṃ
+4 11. bhadrakasuttaṃ
+4 12. rāsiyasuttaṃ
+4 13. pāṭaliyasuttaṃ
+2 9. asaṅkhatasaṃyuttaṃ
+3 1. paṭhamavaggo
+4 1. kāyagatāsatisuttaṃ
+4 2. samathavipassanāsuttaṃ
+4 3. savitakkasavicārasuttaṃ
+4 4. suññatasamādhisuttaṃ
+4 5. satipaṭṭhānasuttaṃ
+4 6. sammappadhānasuttaṃ
+4 7. iddhipādasuttaṃ
+4 8. indriyasuttaṃ
+4 9. balasuttaṃ
+4 10. bojjhaṅgasuttaṃ
+4 11. maggaṅgasuttaṃ
+3 2. dutiyavaggo
+4 1. asaṅkhatasuttaṃ
+4 2. anatasuttaṃ
+4 3-32. anāsavādisuttaṃ
+4 33. parāyanasuttaṃ
+2 10. abyākatasaṃyuttaṃ
+4 1. khemāsuttaṃ
+4 2. anurādhasuttaṃ
+4 3. paṭhamasāriputtakoṭṭhikasuttaṃ
+4 4. dutiyasāriputtakoṭṭhikasuttaṃ
+4 5. tatiyasāriputtakoṭṭhikasuttaṃ
+4 6. catutthasāriputtakoṭṭhikasuttaṃ
+4 7. moggallānasuttaṃ
+4 8. vacchagottasuttaṃ
+4 9. kutūhalasālāsuttaṃ
+4 10. ānandasuttaṃ
+4 11. sabhiyakaccānasuttaṃ
+a mahāvaggo
+2 1. maggasaṃyuttaṃ
+3 1. avijjāvaggo
+4 1. avijjāsuttaṃ
+4 2. upaḍḍhasuttaṃ
+4 3. sāriputtasuttaṃ
+4 4. jāṇussoṇibrāhmaṇasuttaṃ
+4 5. kimatthiyasuttaṃ
+4 6. paṭhamāññatarabhikkhusuttaṃ
+4 7. dutiyāññatarabhikkhusuttaṃ
+4 8. vibhaṅgasuttaṃ
+4 9. sūkasuttaṃ
+4 10. nandiyasuttaṃ
+3 2. vihāravaggo
+4 1. paṭhamavihārasuttaṃ
+4 2. dutiyavihārasuttaṃ
+4 3. sekkhasuttaṃ
+4 4. paṭhamauppādasuttaṃ
+4 5. dutiyauppādasuttaṃ
+4 6. paṭhamaparisuddhasuttaṃ
+4 7. dutiyaparisuddhasuttaṃ
+4 8. paṭhamakukkuṭārāmasuttaṃ
+4 9. dutiyakukkuṭārāmasuttaṃ
+4 10. tatiyakukkuṭārāmasuttaṃ
+3 3. micchattavaggo
+4 1. micchattasuttaṃ
+4 2. akusaladhammasuttaṃ
+4 3. paṭhamapaṭipadāsuttaṃ
+4 4. dutiyapaṭipadāsuttaṃ
+4 5. paṭhamāsappurisasuttaṃ
+4 6. dutiyāsappurisasuttaṃ
+4 7. kumbhasuttaṃ
+4 8. samādhisuttaṃ
+4 9. vedanāsuttaṃ
+4 10. uttiyasuttaṃ
+3 4. paṭipattivaggo
+4 1. paṭhamapaṭipattisuttaṃ
+4 2. dutiyapaṭipattisuttaṃ
+4 3. viraddhasuttaṃ
+4 4. pāraṅgamasuttaṃ
+4 5. paṭhamasāmaññasuttaṃ
+4 6. dutiyasāmaññasuttaṃ
+4 7. paṭhamabrahmaññasuttaṃ
+4 8. dutiyabrahmaññasuttaṃ
+4 9. paṭhamabrahmacariyasuttaṃ
+4 10. dutiyabrahmacariyasuttaṃ
+3 5. aññatitthiyapeyyālavaggo
+4 1. rāgavirāgasuttaṃ
+4 2-7. saṃyojanappahānādisuttachakkaṃ
+4 8. anupādāparinibbānasuttaṃ
+3 6. sūriyapeyyālavaggo
+4 1. kalyāṇamittasuttaṃ
+4 2-6. sīlasampadādisuttapañcakaṃ
+4 7. yonisomanasikārasampadāsuttaṃ
+4 1. kalyāṇamittasuttaṃ
+4 2-6. sīlasampadādisuttapañcakaṃ
+4 7. yonisomanasikārasampadāsuttaṃ
+3 7. ekadhammapeyyālavaggo
+4 1. kalyāṇamittasuttaṃ
+4 2-6. sīlasampadādisuttapañcakaṃ
+4 7. yonisomanasikārasampadāsuttaṃ
+4 1. kalyāṇamittasuttaṃ
+4 2-6. sīlasampadādisuttapañcakaṃ
+4 7. yonisomanasikārasampadāsuttaṃ
+3 8. dutiyaekadhammapeyyālavaggo
+4 1. kalyāṇamittasuttaṃ
+4 2-6. sīlasampadādisuttapañcakaṃ
+4 7. yonisomanasikārasampadāsuttaṃ
+4 1. kalyāṇamittasuttaṃ
+4 2-6. sīlasampadādisuttapañcakaṃ
+4 7. yonisomanasikārasampadāsuttaṃ
+3 1. gaṅgāpeyyālavaggo
+4 1. paṭhamapācīnaninnasuttaṃ
+4 2-5. dutiyādipācīnaninnasuttacatukkaṃ
+4 6. chaṭṭhapācīnaninnasuttaṃ
+4 1. paṭhamasamuddaninnasuttaṃ
+4 2-6. dutiyādisamuddaninnasuttapañcakaṃ
+3 2. dutiyagaṅgāpeyyālavaggo
+4 1. paṭhamapācīnaninnasuttaṃ
+4 2-6. dutiyādipācīnaninnasuttapañcakaṃ
+4 1. paṭhamasamuddaninnasuttaṃ
+4 2-6. dutiyādisamuddaninnasuttapañcakaṃ
+4 1. paṭhamapācīnaninnasuttaṃ
+4 2-6. dutiyādipācīnaninnasuttapañcakaṃ
+4 1. paṭhamasamuddaninnasuttaṃ
+4 2-6. dutiyādisamuddaninnasuttapañcakaṃ
+4 1. paṭhamapācīnaninnasuttaṃ
+4 2-6. dutiyādipācīnaninnasuttapañcakaṃ
+4 1. paṭhamasamuddaninnasuttaṃ
+4 2-6. dutiyādisamuddaninnasuttapañcakaṃ
+3 5. appamādapeyyālavaggo
+4 1. tathāgatasuttaṃ
+4 2. padasuttaṃ
+4 3-7. kūṭādisuttapañcakaṃ
+4 8-10. candimādisuttatatiyakaṃ
+3 6. balakaraṇīyavaggo
+4 1. balasuttaṃ
+4 2. bījasuttaṃ
+4 3. nāgasuttaṃ
+4 4. rukkhasuttaṃ
+4 5. kumbhasuttaṃ
+4 6. sūkasuttaṃ
+4 7. ākāsasuttaṃ
+4 8. paṭhamameghasuttaṃ
+4 9. dutiyameghasuttaṃ
+4 10. nāvāsuttaṃ
+4 11. āgantukasuttaṃ
+4 12. nadīsuttaṃ
+3 7. esanāvaggo
+4 1. esanāsuttaṃ
+4 2. vidhāsuttaṃ
+4 3. āsavasuttaṃ
+4 4. bhavasuttaṃ
+4 5. dukkhatāsuttaṃ
+4 6. khilasuttaṃ
+4 7. malasuttaṃ
+4 8. nīghasuttaṃ
+4 9. vedanāsuttaṃ
+4 10. taṇhāsuttaṃ
+4 11. tasināsuttaṃ
+3 8. oghavaggo
+4 1. oghasuttaṃ
+4 2. yogasuttaṃ
+4 3. upādānasuttaṃ
+4 4. ganthasuttaṃ
+4 5. anusayasuttaṃ
+4 6. kāmaguṇasuttaṃ
+4 7. nīvaraṇasuttaṃ
+4 8. upādānakkhandhasuttaṃ
+4 9. orambhāgiyasuttaṃ
+4 10. uddhambhāgiyasuttaṃ
+2 2. bojjhaṅgasaṃyuttaṃ
+3 1. pabbatavaggo
+4 1. himavantasuttaṃ
+4 2. kāyasuttaṃ
+4 3. sīlasuttaṃ
+4 4. vatthasuttaṃ
+4 5. bhikkhusuttaṃ
+4 6. kuṇḍaliyasuttaṃ
+4 7. kūṭāgārasuttaṃ
+4 8. upavānasuttaṃ
+4 9. paṭhamauppannasuttaṃ
+4 10. dutiyauppannasuttaṃ
+3 2. gilānavaggo
+4 1. pāṇasuttaṃ
+4 2. paṭhamasūriyūpamasuttaṃ
+4 3. dutiyasūriyūpamasuttaṃ
+4 4. paṭhamagilānasuttaṃ
+4 5. dutiyagilānasuttaṃ
+4 6. tatiyagilānasuttaṃ
+4 7. pāraṅgamasuttaṃ
+4 8. viraddhasuttaṃ
+4 9. ariyasuttaṃ
+4 10. nibbidāsuttaṃ
+3 3. udāyivaggo
+4 1. bodhāyasuttaṃ
+4 2. bojjhaṅgadesanāsuttaṃ
+4 3. ṭhāniyasuttaṃ
+4 4. ayonisomanasikārasuttaṃ
+4 5. aparihāniyasuttaṃ
+4 6. taṇhakkhayasuttaṃ
+4 7. taṇhānirodhasuttaṃ
+4 8. nibbedhabhāgiyasuttaṃ
+4 9. ekadhammasuttaṃ
+4 10. udāyisuttaṃ
+3 4. nīvaraṇavaggo
+4 1. paṭhamakusalasuttaṃ
+4 2. dutiyakusalasuttaṃ
+4 3. upakkilesasuttaṃ
+4 4. anupakkilesasuttaṃ
+4 5. ayonisomanasikārasuttaṃ
+4 6. yonisomanasikārasuttaṃ
+4 7. buddhisuttaṃ
+4 8. āvaraṇanīvaraṇasuttaṃ
+4 9. rukkhasuttaṃ
+4 10. nīvaraṇasuttaṃ
+3 5. cakkavattivaggo
+4 1. vidhāsuttaṃ
+4 2. cakkavattisuttaṃ
+4 3. mārasuttaṃ
+4 4. duppaññasuttaṃ
+4 5. paññavantasuttaṃ
+4 6. daliddasuttaṃ
+4 7. adaliddasuttaṃ
+4 8. ādiccasuttaṃ
+4 9. ajjhattikaṅgasuttaṃ
+4 10. bāhiraṅgasuttaṃ
+3 6. sākacchavaggo
+4 1. āhārasuttaṃ
+4 2. pariyāyasuttaṃ
+4 3. aggisuttaṃ
+4 4. mettāsahagatasuttaṃ
+4 5. saṅgāravasuttaṃ
+4 6. abhayasuttaṃ
+3 7. ānāpānavaggo
+4 1. aṭṭhikamahapphalasuttaṃ
+4 aññataraphalasuttaṃ
+4 mahatthasuttaṃ
+4 yogakkhemasuttaṃ
+4 saṃvegasuttaṃ
+4 phāsuvihārasuttaṃ
+4 2. puḷavakasuttaṃ
+4 3. vinīlakasuttaṃ
+4 4. vicchiddakasuttaṃ
+4 5. uddhumātakasuttaṃ
+4 6. mettāsuttaṃ
+4 7. karuṇāsuttaṃ
+4 8. muditāsuttaṃ
+4 9. upekkhāsuttaṃ
+4 10. ānāpānasuttaṃ
+3 8. nirodhavaggo
+4 1. asubhasuttaṃ
+4 2. maraṇasuttaṃ
+4 3. āhārepaṭikūlasuttaṃ
+4 4. anabhiratisuttaṃ
+4 5. aniccasuttaṃ
+4 6. dukkhasuttaṃ
+4 7. anattasuttaṃ
+4 8. pahānasuttaṃ
+4 9. virāgasuttaṃ
+4 10. nirodhasuttaṃ
+3 9. gaṅgāpeyyālavaggo
+4 1-12. gaṅgānadīādisuttaṃ
+3 10. appamādavaggo
+4 1-10. tathāgatādisuttaṃ
+3 11. balakaraṇīyavaggo
+4 1-12. balādisuttaṃ
+3 12. esanāvaggo
+4 1-10. esanādisuttaṃ
+3 13. oghavaggo
+4 1-8. oghādisuttaṃ
+4 10. uddhambhāgiyasuttaṃ
+3 14. punagaṅgāpeyyālavaggo
+4 unnamed
+4 punagaṅgānadīādisuttaṃ
+3 15. punāppamādavaggo
+4 unnamed
+4 tathāgatādisuttaṃ
+3 16. punabalakaraṇīyavaggo
+4 unnamed
+4 punabalādisuttaṃ
+3 17. punaesanāvaggo
+4 unnamed
+4 punaesanādisuttaṃ
+3 18. punaoghavaggo
+4 unnamed
+4 punaoghādisuttaṃ
+2 3. satipaṭṭhānasaṃyuttaṃ
+3 1. ambapālivaggo
+4 1. ambapālisuttaṃ
+4 2. satisuttaṃ
+4 3. bhikkhusuttaṃ
+4 4. sālasuttaṃ
+4 5. akusalarāsisuttaṃ
+4 6. sakuṇagghisuttaṃ
+4 7. makkaṭasuttaṃ
+4 8. sūdasuttaṃ
+4 9. gilānasuttaṃ
+4 10. bhikkhunupassayasuttaṃ
+3 2. nālandavaggo
+4 1. mahāpurisasuttaṃ
+4 2. nālandasuttaṃ
+4 3. cundasuttaṃ
+4 4. ukkacelasuttaṃ
+4 5. bāhiyasuttaṃ
+4 6. uttiyasuttaṃ
+4 7. ariyasuttaṃ
+4 8. brahmasuttaṃ
+4 9. sedakasuttaṃ
+4 10. janapadakalyāṇīsuttaṃ
+3 3. sīlaṭṭhitivaggo
+4 1. sīlasuttaṃ
+4 2. ciraṭṭhitisuttaṃ
+4 3. parihānasuttaṃ
+4 4. suddhasuttaṃ
+4 5. aññatarabrāhmaṇasuttaṃ
+4 6. padesasuttaṃ
+4 7. samattasuttaṃ
+4 8. lokasuttaṃ
+4 9. sirivaḍḍhasuttaṃ
+4 10. mānadinnasuttaṃ
+3 4. ananussutavaggo
+4 1. ananussutasuttaṃ
+4 2. virāgasuttaṃ
+4 3. viraddhasuttaṃ
+4 4. bhāvitasuttaṃ
+4 5. satisuttaṃ
+4 6. aññāsuttaṃ
+4 7. chandasuttaṃ
+4 8. pariññātasuttaṃ
+4 9. bhāvanāsuttaṃ
+4 10. vibhaṅgasuttaṃ
+3 5. amatavaggo
+4 1. amatasuttaṃ
+4 2. samudayasuttaṃ
+4 3. maggasuttaṃ
+4 4. satisuttaṃ
+4 5. kusalarāsisuttaṃ
+4 6. pātimokkhasaṃvarasuttaṃ
+4 7. duccaritasuttaṃ
+4 8. mittasuttaṃ
+4 9. vedanāsuttaṃ
+4 10. āsavasuttaṃ
+3 6. gaṅgāpeyyālavaggo
+4 1-12. gaṅgānadīādisuttadvādasakaṃ
+3 7. appamādavaggo
+4 1-10. tathāgatādisuttadasakaṃ
+3 8. balakaraṇīyavaggo
+4 1-12. balādisuttadvādasakaṃ
+3 9. esanāvaggo
+4 1-10. esanādisuttadasakaṃ
+3 10. oghavaggo
+4 1-10. uddhambhāgiyādisuttadasakaṃ
+2 4. indriyasaṃyuttaṃ
+3 1. suddhikavaggo
+4 1. suddhikasuttaṃ
+4 2. paṭhamasotāpannasuttaṃ
+4 3. dutiyasotāpannasuttaṃ
+4 4. paṭhamārahantasuttaṃ
+4 5. dutiyārahantasuttaṃ
+4 6. paṭhamasamaṇabrāhmaṇasuttaṃ
+4 7. dutiyasamaṇabrāhmaṇasuttaṃ
+4 8. daṭṭhabbasuttaṃ
+4 9. paṭhamavibhaṅgasuttaṃ
+4 10. dutiyavibhaṅgasuttaṃ
+3 2. mudutaravaggo
+4 1. paṭilābhasuttaṃ
+4 2. paṭhamasaṃkhittasuttaṃ
+4 3. dutiyasaṃkhittasuttaṃ
+4 4. tatiyasaṃkhittasuttaṃ
+4 5. paṭhamavitthārasuttaṃ
+4 6. dutiyavitthārasuttaṃ
+4 7. tatiyavitthārasuttaṃ
+4 8. paṭipannasuttaṃ
+4 9. sampannasuttaṃ
+4 10. āsavakkhayasuttaṃ
+3 3. chaḷindriyavaggo
+4 1. punabbhavasuttaṃ
+4 2. jīvitindriyasuttaṃ
+4 3. aññindriyasuttaṃ
+4 4. ekabījīsuttaṃ
+4 5. suddhakasuttaṃ
+4 6. sotāpannasuttaṃ
+4 7. arahantasuttaṃ
+4 8. sambuddhasuttaṃ
+4 9. paṭhamasamaṇabrāhmaṇasuttaṃ
+4 10. dutiyasamaṇabrāhmaṇasuttaṃ
+3 4. sukhindriyavaggo
+4 1. suddhikasuttaṃ
+4 2. sotāpannasuttaṃ
+4 3. arahantasuttaṃ
+4 4. paṭhamasamaṇabrāhmaṇasuttaṃ
+4 5. dutiyasamaṇabrāhmaṇasuttaṃ
+4 6. paṭhamavibhaṅgasuttaṃ
+4 7. dutiyavibhaṅgasuttaṃ
+4 8. tatiyavibhaṅgasuttaṃ
+4 9. kaṭṭhopamasuttaṃ
+4 10. uppaṭipāṭikasuttaṃ
+3 5. jarāvaggo
+4 1. jarādhammasuttaṃ
+4 2. uṇṇābhabrāhmaṇasuttaṃ
+4 3. sāketasuttaṃ
+4 4. pubbakoṭṭhakasuttaṃ
+4 5. paṭhamapubbārāmasuttaṃ
+4 6. dutiyapubbārāmasuttaṃ
+4 7. tatiyapubbārāmasuttaṃ
+4 8. catutthapubbārāmasuttaṃ
+4 9. piṇḍolabhāradvājasuttaṃ
+4 10. āpaṇasuttaṃ
+3 6. sūkarakhatavaggo
+4 1. sālasuttaṃ
+4 2. mallikasuttaṃ
+4 3. sekhasuttaṃ
+4 4. padasuttaṃ
+4 5. sārasuttaṃ
+4 6. patiṭṭhitasuttaṃ
+4 7. sahampatibrahmasuttaṃ
+4 8. sūkarakhatasuttaṃ
+4 9. paṭhamauppādasuttaṃ
+4 10. dutiyauppādasuttaṃ
+3 7. bodhipakkhiyavaggo
+4 1. saṃyojanasuttaṃ
+4 2. anusayasuttaṃ
+4 3. pariññāsuttaṃ
+4 4. āsavakkhayasuttaṃ
+4 5. paṭhamaphalasuttaṃ
+4 6. dutiyaphalasuttaṃ
+4 7. paṭhamarukkhasuttaṃ
+4 8. dutiyarukkhasuttaṃ
+4 9. tatiyarukkhasuttaṃ
+4 10. catuttharukkhasuttaṃ
+3 8. gaṅgāpeyyālavaggo
+4 1-12. pācīnādisuttadvādasakaṃ
+3 12. oghavaggo
+4 1-10. oghādisuttadasakaṃ
+3 13. gaṅgāpeyyālavaggo
+4 1-12. pācīnādisuttadvādasakaṃ
+3 17. oghavaggo
+4 1-10. oghādisuttadasakaṃ
+2 5. sammappadhānasaṃyuttaṃ
+3 1. gaṅgāpeyyālavaggo
+4 1-12. pācīnādisuttadvādasakaṃ
+3 2. appamādavaggo
+3 3. balakaraṇīyavaggo
+4 1-12. balakaraṇīyādisuttadvādasakaṃ
+3 4. esanāvaggo
+4 1-10. esanādisuttadasakaṃ
+3 5. oghavaggo
+4 1-10. oghādisuttadasakaṃ
+2 6. balasaṃyuttaṃ
+3 1. gaṅgāpeyyālavaggo
+4 1-12. balādisuttadvādasakaṃ
+3 2. appamādavaggo
+3 5. oghavaggo
+4 1-10. oghādisuttadasakaṃ
+3 6. gaṅgāpeyyālavaggo
+4 1-12. pācīnādisuttadvādasakaṃ
+3 9. esanāvaggo
+4 1-12. esanādisuttadvādasakaṃ
+3 10. oghavaggo
+4 1-10. oghādisuttadasakaṃ
+2 7. iddhipādasaṃyuttaṃ
+3 1. cāpālavaggo
+4 1. apārasuttaṃ
+4 2. viraddhasuttaṃ
+4 3. ariyasuttaṃ
+4 4. nibbidāsuttaṃ
+4 5. iddhipadesasuttaṃ
+4 6. samattasuttaṃ
+4 7. bhikkhusuttaṃ
+4 8. buddhasuttaṃ
+4 9. ñāṇasuttaṃ
+4 10. cetiyasuttaṃ
+3 2. pāsādakampanavaggo
+4 1. pubbasuttaṃ
+4 2. mahapphalasuttaṃ
+4 3. chandasamādhisuttaṃ
+4 4. moggallānasuttaṃ
+4 5. uṇṇābhabrāhmaṇasuttaṃ
+4 6. paṭhamasamaṇabrāhmaṇasuttaṃ
+4 7. dutiyasamaṇabrāhmaṇasuttaṃ
+4 8. bhikkhusuttaṃ
+4 9. iddhādidesanāsuttaṃ
+4 10. vibhaṅgasuttaṃ
+3 3. ayoguḷavaggo
+4 1. maggasuttaṃ
+4 2. ayoguḷasuttaṃ
+4 3. bhikkhusuttaṃ
+4 4. suddhikasuttaṃ
+4 5. paṭhamaphalasuttaṃ
+4 6. dutiyaphalasuttaṃ
+4 7. paṭhamāanandasuttaṃ
+4 8. dutiyāanandasuttaṃ
+4 9. paṭhamabhikkhusuttaṃ
+4 10. dutiyabhikkhusuttaṃ
+4 11. moggallānasuttaṃ
+4 12. tathāgatasuttaṃ
+3 4. gaṅgāpeyyālavaggo
+4 1-12. gaṅgānadīādisuttadvādasakaṃ
+3 8. oghavaggo
+4 1-10. oghādisuttadasakaṃ
+2 8. anuruddhasaṃyuttaṃ
+3 1. rahogatavaggo
+4 1. paṭhamarahogatasuttaṃ
+4 2. dutiyarahogatasuttaṃ
+4 3. sutanusuttaṃ
+4 4. paṭhamakaṇḍakīsuttaṃ
+4 5. dutiyakaṇḍakīsuttaṃ
+4 6. tatiyakaṇḍakīsuttaṃ
+4 7. taṇhakkhayasuttaṃ
+4 8. salaḷāgārasuttaṃ
+4 9. ambapālivanasuttaṃ
+4 10. bāḷhagilānasuttaṃ
+3 2. dutiyavaggo
+4 1. kappasahassasuttaṃ
+4 2. iddhividhasuttaṃ
+4 3. dibbasotasuttaṃ
+4 4. cetopariyasuttaṃ
+4 5. ṭhānasuttaṃ
+4 6. kammasamādānasuttaṃ
+4 7. sabbatthagāminisuttaṃ
+4 8. nānādhātusuttaṃ
+4 9. nānādhimuttisuttaṃ
+4 10. indriyaparopariyattasuttaṃ
+4 11. jhānādisuttaṃ
+4 12. pubbenivāsasuttaṃ
+4 13. dibbacakkhusuttaṃ
+4 14. āsavakkhayasuttaṃ
+2 9. jhānasaṃyuttaṃ
+3 1. gaṅgāpeyyālavaggo
+4 1-12. jhānādisuttadvādasakaṃ
+3 5. oghavaggo
+4 1-10. oghādisuttaṃ
+2 10. ānāpānasaṃyuttaṃ
+3 1. ekadhammavaggo
+4 1. ekadhammasuttaṃ
+4 2. bojjhaṅgasuttaṃ
+4 3. suddhikasuttaṃ
+4 4. paṭhamaphalasuttaṃ
+4 5. dutiyaphalasuttaṃ
+4 6. ariṭṭhasuttaṃ
+4 7. mahākappinasuttaṃ
+4 8. padīpopamasuttaṃ
+4 9. vesālīsuttaṃ
+4 10. kimilasuttaṃ
+3 2. dutiyavaggo
+4 1. icchānaṅgalasuttaṃ
+4 2. kaṅkheyyasuttaṃ
+4 3. paṭhamāanandasuttaṃ
+4 4. dutiyāanandasuttaṃ
+4 5. paṭhamabhikkhusuttaṃ
+4 6. dutiyabhikkhusuttaṃ
+4 7. saṃyojanappahānasuttaṃ
+4 8. anusayasamugghātasuttaṃ
+4 9. addhānapariññāsuttaṃ
+4 10. āsavakkhayasuttaṃ
+2 11. sotāpattisaṃyuttaṃ
+3 1. veḷudvāravaggo
+4 1. cakkavattirājasuttaṃ
+4 2. brahmacariyogadhasuttaṃ
+4 3. dīghāvūpāsakasuttaṃ
+4 4. paṭhamasāriputtasuttaṃ
+4 5. dutiyasāriputtasuttaṃ
+4 6. thapatisuttaṃ
+4 7. veḷudvāreyyasuttaṃ
+4 8. paṭhamagiñjakāvasathasuttaṃ
+4 9. dutiyagiñjakāvasathasuttaṃ
+4 10. tatiyagiñjakāvasathasuttaṃ
+3 2. rājakārāmavaggo
+4 1. sahassabhikkhunisaṅghasuttaṃ
+4 3. ānandattherasuttaṃ
+4 4. duggatibhayasuttaṃ
+4 5. duggativinipātabhayasuttaṃ
+4 6. paṭhamamittāmaccasuttaṃ
+4 7. dutiyamittāmaccasuttaṃ
+4 8. paṭhamadevacārikasuttaṃ
+4 9. dutiyadevacārikasuttaṃ
+4 10. tatiyadevacārikasuttaṃ
+3 3. saraṇānivaggo
+4 1. paṭhamamahānāmasuttaṃ
+4 3. godhasakkasuttaṃ
+4 4. paṭhamasaraṇānisakkasuttaṃ
+4 5. dutiyasaraṇānisakkasuttaṃ
+4 6. paṭhamānāthapiṇḍikasuttaṃ
+4 7. dutiyānāthapiṇḍikasuttaṃ
+4 8. paṭhamabhayaverūpasantasuttaṃ
+4 9. dutiyabhayaverūpasantasuttaṃ
+4 10. nandakalicchavisuttaṃ
+3 4. puññābhisandavaggo
+4 1. paṭhamapuññābhisandasuttaṃ
+4 3. tatiyapuññābhisandasuttaṃ
+4 4. paṭhamadevapadasuttaṃ
+4 5. dutiyadevapadasuttaṃ
+4 6. devasabhāgasuttaṃ
+4 7. mahānāmasuttaṃ
+4 8. vassasuttaṃ
+4 9. kāḷigodhasuttaṃ
+4 10. nandiyasakkasuttaṃ
+3 5. sagāthakapuññābhisandavaggo
+4 1. paṭhamābhisandasuttaṃ
+4 2. dutiyābhisandasuttaṃ
+4 3. tatiyābhisandasuttaṃ
+4 4. paṭhamamahaddhanasuttaṃ
+4 5. dutiyamahaddhanasuttaṃ
+4 6. suddhakasuttaṃ
+4 7. nandiyasuttaṃ
+4 8. bhaddiyasuttaṃ
+4 9. mahānāmasuttaṃ
+4 10. aṅgasuttaṃ
+3 6. sappaññavaggo
+4 1. sagāthakasuttaṃ
+4 2. vassaṃvutthasuttaṃ
+4 3. dhammadinnasuttaṃ
+4 4. gilānasuttaṃ
+4 5. sotāpattiphalasuttaṃ
+4 6. sakadāgāmiphalasuttaṃ
+4 7. anāgāmiphalasuttaṃ
+4 8. arahattaphalasuttaṃ
+4 9. paññāpaṭilābhasuttaṃ
+4 10. paññāvuddhisuttaṃ
+4 11. paññāvepullasuttaṃ
+3 7. mahāpaññavaggo
+4 1. mahāpaññāsuttaṃ
+4 2. puthupaññāsuttaṃ
+4 3. vipulapaññāsuttaṃ
+4 4. gambhīrapaññāsuttaṃ
+4 5. appamattapaññāsuttaṃ
+4 6. bhūripaññāsuttaṃ
+4 7. paññābāhullasuttaṃ
+4 8. sīghapaññāsuttaṃ
+4 9. lahupaññāsuttaṃ
+4 10. hāsapaññāsuttaṃ
+4 11. javanapaññāsuttaṃ
+4 12. tikkhapaññāsuttaṃ
+4 13. nibbedhikapaññāsuttaṃ
+2 12. saccasaṃyuttaṃ
+3 1. samādhivaggo
+4 1. samādhisuttaṃ
+4 2. paṭisallānasuttaṃ
+4 3. paṭhamakulaputtasuttaṃ
+4 4. dutiyakulaputtasuttaṃ
+4 5. paṭhamasamaṇabrāhmaṇasuttaṃ
+4 6. dutiyasamaṇabrāhmaṇasuttaṃ
+4 7. vitakkasuttaṃ
+4 8. cintasuttaṃ
+4 9. viggāhikakathāsuttaṃ
+4 10. tiracchānakathāsuttaṃ
+3 2. dhammacakkappavattanavaggo
+4 1. dhammacakkappavattanasuttaṃ
+4 2. tathāgatasuttaṃ
+4 3. khandhasuttaṃ
+4 4. ajjhattikāyatanasuttaṃ
+4 5. paṭhamadhāraṇasuttaṃ
+4 6. dutiyadhāraṇasuttaṃ
+4 7. avijjāsuttaṃ
+4 8. vijjāsuttaṃ
+4 9. saṅkāsanasuttaṃ
+4 10. tathasuttaṃ
+3 3. koṭigāmavaggo
+4 1. paṭhamakoṭigāmasuttaṃ
+4 2. dutiyakoṭigāmasuttaṃ
+4 3. sammāsambuddhasuttaṃ
+4 4. arahantasuttaṃ
+4 5. āsavakkhayasuttaṃ
+4 6. mittasuttaṃ
+4 7. tathasuttaṃ
+4 8. lokasuttaṃ
+4 9. pariññeyyasuttaṃ
+4 10. gavampatisuttaṃ
+3 4. sīsapāvanavaggo
+4 1. sīsapāvanasuttaṃ
+4 2. khadirapattasuttaṃ
+4 3. daṇḍasuttaṃ
+4 4. celasuttaṃ
+4 5. sattisatasuttaṃ
+4 6. pāṇasuttaṃ
+4 7. paṭhamasūriyasuttaṃ
+4 8. dutiyasūriyasuttaṃ
+4 9. indakhīlasuttaṃ
+4 10. vādatthikasuttaṃ
+3 5. papātavaggo
+4 1. lokacintāsuttaṃ
+4 2. papātasuttaṃ
+4 3. mahāpariḷāhasuttaṃ
+4 4. kūṭāgārasuttaṃ
+4 5. vālasuttaṃ
+4 6. andhakārasuttaṃ
+4 7. paṭhamachiggaḷayugasuttaṃ
+4 8. dutiyachiggaḷayugasuttaṃ
+4 9. paṭhamasinerupabbatarājasuttaṃ
+4 10. dutiyasinerupabbatarājasuttaṃ
+3 6. abhisamayavaggo
+4 1. nakhasikhasuttaṃ
+4 2. pokkharaṇīsuttaṃ
+4 3. paṭhamasaṃbhejjasuttaṃ
+4 4. dutiyasaṃbhejjasuttaṃ
+4 5. paṭhamamahāpathavīsuttaṃ
+4 6. dutiyamahāpathavīsuttaṃ
+4 7. paṭhamamahāsamuddasuttaṃ
+4 8. dutiyamahāsamuddasuttaṃ
+4 9. paṭhamapabbatūpamasuttaṃ
+4 10. dutiyapabbatūpamasuttaṃ
+3 7. paṭhamāamakadhaññapeyyālavaggo
+4 1. aññatrasuttaṃ
+4 2. paccantasuttaṃ
+4 3. paññāsuttaṃ
+4 4. surāmerayasuttaṃ
+4 5. odakasuttaṃ
+4 6. matteyyasuttaṃ
+4 7. petteyyasuttaṃ
+4 8. sāmaññasuttaṃ
+4 9. brahmaññasuttaṃ
+4 10. pacāyikasuttaṃ
+3 8. dutiyāamakadhaññapeyyālavaggo
+4 1. pāṇātipātasuttaṃ
+4 2. adinnādānasuttaṃ
+4 3. kāmesumicchācārasuttaṃ
+4 4. musāvādasuttaṃ
+4 5. pesuññasuttaṃ
+4 6. pharusavācāsuttaṃ
+4 7. samphappalāpasuttaṃ
+4 8. bījagāmasuttaṃ
+4 9. vikālabhojanasuttaṃ
+4 10. gandhavilepanasuttaṃ
+3 9. tatiyāamakadhaññapeyyālavaggo
+4 1. naccagītasuttaṃ
+4 2. uccāsayanasuttaṃ
+4 3. jātarūparajatasuttaṃ
+4 4. āmakadhaññasuttaṃ
+4 5. āmakamaṃsasuttaṃ
+4 6. kumārikasuttaṃ
+4 7. dāsidāsasuttaṃ
+4 8. ajeḷakasuttaṃ
+4 9. kukkuṭasūkarasuttaṃ
+4 10. hatthigavassasuttaṃ
+3 10. catutthāamakadhaññapeyyālavaggo
+4 1. khettavatthusuttaṃ
+4 2. kayavikkayasuttaṃ
+4 3. dūteyyasuttaṃ
+4 4. tulākūṭasuttaṃ
+4 5. ukkoṭanasuttaṃ
+4 6-11. chedanādisuttaṃ
+3 11. pañcagatipeyyālavaggo
+4 1. manussacutinirayasuttaṃ
+4 2. manussacutitiracchānasuttaṃ
+4 3. manussacutipettivisayasuttaṃ
+4 4-5-6. manussacutidevanirayādisuttaṃ
+4 7-9. devacutinirayādisuttaṃ
+4 10-12. devamanussanirayādisuttaṃ
+4 13-15. nirayamanussanirayādisuttaṃ
+4 16-18. nirayadevanirayādisuttaṃ
+4 19-21. tiracchānamanussanirayādisuttaṃ
+4 22-24. tiracchānadevanirayādisuttaṃ
+4 25-27. pettimanussanirayādisuttaṃ
+4 28-29. pettidevanirayādisuttaṃ
+4 30. pettidevapettivisayasuttaṃ
+a ekakanipātapāḷi
+3 1. rūpādivaggo
+3 2. nīvaraṇappahānavaggo
+3 3. akammaniyavaggo
+3 4. adantavaggo
+3 5. paṇihitācchavaggo
+3 6. accharāsaṅghātavaggo
+3 7. vīriyārambhādivaggo
+3 8. kalyāṇamittādivaggo
+3 9. pamādādivaggo
+3 10. dutiyapamādādivaggo
+3 11. adhammavaggo
+3 12. anāpattivaggo
+3 13. ekapuggalavaggo
+3 14. etadaggavaggo
+4 1. paṭhamavaggo
+4 2. dutiyavaggo
+4 3. tatiyavaggo
+4 4. catutthavaggo
+4 5. pañcamavaggo
+4 6. chaṭṭhavaggo
+4 7. sattamavaggo
+3 15. aṭṭhānapāḷi
+4 1. paṭhamavaggo
+4 2. dutiyavaggo
+4 3. tatiyavaggo
+3 16. ekadhammapāḷi
+4 1. paṭhamavaggo
+4 2. dutiyavaggo
+4 3. tatiyavaggo
+4 4. catutthavaggo
+3 17. pasādakaradhammavaggo
+3 18. aparāccharāsaṅghātavaggo
+3 19. kāyagatāsativaggo
+3 20. amatavaggo
+a dukanipātapāḷi
+2 1. paṭhamapaṇṇāsakaṃ
+3 1. kammakaraṇavaggo
+4 1. vajjasuttaṃ
+4 2. padhānasuttaṃ
+4 3. tapanīyasuttaṃ
+4 4. atapanīyasuttaṃ
+4 5. upaññātasuttaṃ
+4 6. saṃyojanasuttaṃ
+4 7. kaṇhasuttaṃ
+4 8. sukkasuttaṃ
+4 9. cariyasuttaṃ
+4 10. vassūpanāyikasuttaṃ
+3 2. adhikaraṇavaggo
+3 3. bālavaggo
+3 4. samacittavaggo
+3 5. parisavaggo
+2 2. dutiyapaṇṇāsakaṃ
+3 (6) 1. puggalavaggo
+3 (7) 2. sukhavaggo
+3 (8) 3. sanimittavaggo
+3 (9) 4. dhammavaggo
+3 (10) 5. bālavaggo
+2 3. tatiyapaṇṇāsakaṃ
+3 (11) 1. āsāduppajahavaggo
+3 (12) 2. āyācanavaggo
+3 (13) 3. dānavaggo
+3 (14) 4. santhāravaggo
+3 (15) 5. samāpattivaggo
+3 1. kodhapeyyālaṃ
+3 2. akusalapeyyālaṃ
+3 3. vinayapeyyālaṃ
+3 4. rāgapeyyālaṃ
+a tikanipātapāḷi
+2 1. paṭhamapaṇṇāsakaṃ
+3 1. bālavaggo
+4 1. bhayasuttaṃ
+4 2. lakkhaṇasuttaṃ
+4 3. cintīsuttaṃ
+4 4. accayasuttaṃ
+4 5. ayonisosuttaṃ
+4 6. akusalasuttaṃ
+4 7. sāvajjasuttaṃ
+4 8. sabyābajjhasuttaṃ
+4 9. khatasuttaṃ
+4 10. malasuttaṃ
+3 2. rathakāravaggo
+4 1. ñātasuttaṃ
+4 2. sāraṇīyasuttaṃ
+4 3. āsaṃsasuttaṃ
+4 4. cakkavattisuttaṃ
+4 5. sacetanasuttaṃ
+4 6. apaṇṇakasuttaṃ
+4 7. attabyābādhasuttaṃ
+4 8. devalokasuttaṃ
+4 9. paṭhamapāpaṇikasuttaṃ
+4 10. dutiyapāpaṇikasuttaṃ
+3 3. puggalavaggo
+4 1. samiddhasuttaṃ
+4 2. gilānasuttaṃ
+4 3. saṅkhārasuttaṃ
+4 4. bahukārasuttaṃ
+4 5. vajirūpamasuttaṃ
+4 6. sevitabbasuttaṃ
+4 7. jigucchitabbasuttaṃ
+4 8. gūthabhāṇīsuttaṃ
+4 9. andhasuttaṃ
+4 10. avakujjasuttaṃ
+3 4. devadūtavaggo
+4 1.sabrahmakasuttaṃ
+4 2. ānandasuttaṃ
+4 3. sāriputtasuttaṃ
+4 4. nidānasuttaṃ
+4 5. hatthakasuttaṃ
+4 6. devadūtasuttaṃ
+4 7. catumahārājasuttaṃ
+4 8. dutiyacatumahārājasuttaṃ
+4 9. sukhumālasuttaṃ
+4 10. ādhipateyyasuttaṃ
+3 5. cūḷavaggo
+4 1. sammukhībhāvasuttaṃ
+4 2. tiṭhānasuttaṃ
+4 3. atthavasasuttaṃ
+4 4. kathāpavattisuttaṃ
+4 5. paṇḍitasuttaṃ
+4 6. sīlavantasuttaṃ
+4 7. saṅkhatalakkhaṇasuttaṃ
+4 8. asaṅkhatalakkhaṇasuttaṃ
+4 9. pabbatarājasuttaṃ
+4 10. ātappakaraṇīyasuttaṃ
+4 11. mahācorasuttaṃ
+2 2. dutiyapaṇṇāsakaṃ
+3 (6) 1. brāhmaṇavaggo
+4 1. paṭhamadvebrāhmaṇasuttaṃ
+4 2. dutiyadvebrāhmaṇasuttaṃ
+4 3. aññatarabrāhmaṇasuttaṃ
+4 4. paribbājakasuttaṃ
+4 5. nibbutasuttaṃ
+4 6. palokasuttaṃ
+4 7. vacchagottasuttaṃ
+4 8. tikaṇṇasuttaṃ
+4 9. jāṇussoṇisuttaṃ
+4 10. saṅgāravasuttaṃ
+3 (7) 2. mahāvaggo
+4 1. titthāyatanādisuttaṃ
+4 2. bhayasuttaṃ
+4 3. venāgapurasuttaṃ
+4 4. sarabhasuttaṃ
+4 5. kesamuttisuttaṃ
+4 6. sāḷhasuttaṃ
+4 7. kathāvatthusuttaṃ
+4 8. aññatitthiyasuttaṃ
+4 9. akusalamūlasuttaṃ
+4 10. uposathasuttaṃ
+3 (8) 3. ānandavaggo
+4 1. channasuttaṃ
+4 2. ājīvakasuttaṃ
+4 3. mahānāmasakkasuttaṃ
+4 4. nigaṇṭhasuttaṃ
+4 5. nivesakasuttaṃ
+4 6. paṭhamabhavasuttaṃ
+4 7. dutiyabhavasuttaṃ
+4 8. sīlabbatasuttaṃ
+4 9. gandhajātasuttaṃ
+4 10. cūḷanikāsuttaṃ
+3 (9) 4. samaṇavaggo
+4 1. samaṇasuttaṃ
+4 2. gadrabhasuttaṃ
+4 3. khettasuttaṃ
+4 4. vajjiputtasuttaṃ
+4 5. sekkhasuttaṃ
+4 6. paṭhamasikkhāsuttaṃ
+4 7. dutiyasikkhāsuttaṃ
+4 8. tatiyasikkhāsuttaṃ
+4 9. paṭhamasikkhattayasuttaṃ
+4 10. dutiyasikkhattayasuttaṃ
+4 11. saṅkavāsuttaṃ
+3 (10) 5. loṇakapallavaggo
+4 1. accāyikasuttaṃ
+4 2. pavivekasuttaṃ
+4 3. saradasuttaṃ
+4 4. parisāsuttaṃ
+4 5. paṭhamāajānīyasuttaṃ
+4 6. dutiyāajānīyasuttaṃ
+4 7. tatiyāajānīyasuttaṃ
+4 8. potthakasuttaṃ
+4 9. loṇakapallasuttaṃ
+4 10. paṃsudhovakasuttaṃ
+4 11. nimittasuttaṃ
+2 3. tatiyapaṇṇāsakaṃ
+3 (11) 1. sambodhavaggo
+4 1. pubbevasambodhasuttaṃ
+4 2. paṭhamāssādasuttaṃ
+4 3. dutiyāssādasuttaṃ
+4 4. samaṇabrāhmaṇasuttaṃ
+4 5. ruṇṇasuttaṃ
+4 6. atittisuttaṃ
+4 7. arakkhitasuttaṃ
+4 8. byāpannasuttaṃ
+4 9. paṭhamanidānasuttaṃ
+4 10. dutiyanidānasuttaṃ
+3 (12) 2. āpāyikavaggo
+4 1. āpāyikasuttaṃ
+4 2. dullabhasuttaṃ
+4 3. appameyyasuttaṃ
+4 4. āneñjasuttaṃ
+4 5. vipattisampadāsuttaṃ
+4 6. apaṇṇakasuttaṃ
+4 7. kammantasuttaṃ
+4 8. paṭhamasoceyyasuttaṃ
+4 9. dutiyasoceyyasuttaṃ
+4 10. moneyyasuttaṃ
+3 (13) 3. kusināravaggo
+4 1. kusinārasuttaṃ
+4 2. bhaṇḍanasuttaṃ
+4 3. gotamakacetiyasuttaṃ
+4 4. bharaṇḍukālāmasuttaṃ
+4 5. hatthakasuttaṃ
+4 6. kaṭuviyasuttaṃ
+4 7. paṭhamānuruddhasuttaṃ
+4 8. dutiyānuruddhasuttaṃ
+4 9. paṭicchannasuttaṃ
+4 10. lekhasuttaṃ
+3 (14) 4. yodhājīvavaggo
+4 1. yodhājīvasuttaṃ
+4 2. parisāsuttaṃ
+4 3. mittasuttaṃ
+4 4. uppādāsuttaṃ
+4 5. kesakambalasuttaṃ
+4 6. sampadāsuttaṃ
+4 7. vuddhisuttaṃ
+4 8. assakhaḷuṅkasuttaṃ
+4 9. assaparassasuttaṃ
+4 10. assājānīyasuttaṃ
+4 11. paṭhamamoranivāpasuttaṃ
+4 12. dutiyamoranivāpasuttaṃ
+4 13. tatiyamoranivāpasuttaṃ
+3 (15) 5. maṅgalavaggo
+4 1. akusalasuttaṃ
+4 2. sāvajjasuttaṃ
+4 3. visamasuttaṃ
+4 4. asucisuttaṃ
+4 5. paṭhamakhatasuttaṃ
+4 6. dutiyakhatasuttaṃ
+4 7. tatiyakhatasuttaṃ
+4 8. catutthakhatasuttaṃ
+4 9. vandanāsuttaṃ
+4 10. pubbaṇhasuttaṃ
+3 (16) 6. acelakavaggo
+3 (17) 7. kammapathapeyyālaṃ
+3 (18) 8. rāgapeyyālaṃ
+a catukkanipātapāḷi
+2 1. paṭhamapaṇṇāsakaṃ
+3 1. bhaṇḍagāmavaggo
+4 1. anubuddhasuttaṃ
+4 2. papatitasuttaṃ
+4 3. paṭhamakhatasuttaṃ
+4 4. dutiyakhatasuttaṃ
+4 5. anusotasuttaṃ
+4 6. appassutasuttaṃ
+4 7. sobhanasuttaṃ
+4 8. vesārajjasuttaṃ
+4 9. taṇhuppādasuttaṃ
+4 10. yogasuttaṃ
+3 2. caravaggo
+4 1. carasuttaṃ
+4 2. sīlasuttaṃ
+4 3. padhānasuttaṃ
+4 4. saṃvarasuttaṃ
+4 5. paññattisuttaṃ
+4 6. sokhummasuttaṃ
+4 7. paṭhamāgatisuttaṃ
+4 8. dutiyāgatisuttaṃ
+4 9. tatiyāgatisuttaṃ
+4 10. bhattuddesakasuttaṃ
+3 3. uruvelavaggo
+4 1. paṭhamauruvelasuttaṃ
+4 2. dutiyauruvelasuttaṃ
+4 3. lokasuttaṃ
+4 4. kāḷakārāmasuttaṃ
+4 5. brahmacariyasuttaṃ
+4 6. kuhasuttaṃ
+4 7. santuṭṭhisuttaṃ
+4 8. ariyavaṃsasuttaṃ
+4 9. dhammapadasuttaṃ
+4 10. paribbājakasuttaṃ
+3 4. cakkavaggo
+4 1. cakkasuttaṃ
+4 2. saṅgahasuttaṃ
+4 3. sīhasuttaṃ
+4 4. aggappasādasuttaṃ
+4 5. vassakārasuttaṃ
+4 6. doṇasuttaṃ
+4 7. aparihāniyasuttaṃ
+4 8. patilīnasuttaṃ
+4 9. ujjayasuttaṃ
+4 10. udāyīsuttaṃ
+3 5. rohitassavaggo
+4 1. samādhibhāvanāsuttaṃ
+4 2. pañhabyākaraṇasuttaṃ
+4 3. paṭhamakodhagarusuttaṃ
+4 4. dutiyakodhagarusuttaṃ
+4 5. rohitassasuttaṃ
+4 6. dutiyarohitassasuttaṃ
+4 7. suvidūrasuttaṃ
+4 8. visākhasuttaṃ
+4 9. vipallāsasuttaṃ
+4 10. upakkilesasuttaṃ
+2 2. dutiyapaṇṇāsakaṃ
+3 (6) 1. puññābhisandavaggo
+4 1. paṭhamapuññābhisandasuttaṃ
+4 2. dutiyapuññābhisandasuttaṃ
+4 3. paṭhamasaṃvāsasuttaṃ
+4 4. dutiyasaṃvāsasuttaṃ
+4 5. paṭhamasamajīvīsuttaṃ
+4 6. dutiyasamajīvīsuttaṃ
+4 7. suppavāsāsuttaṃ
+4 8. sudattasuttaṃ
+4 9. bhojanasuttaṃ
+4 10. gihisāmīcisuttaṃ
+3 (7) 2. pattakammavaggo
+4 1. pattakammasuttaṃ
+4 2. ānaṇyasuttaṃ
+4 3. brahmasuttaṃ
+4 4. nirayasuttaṃ
+4 5. rūpasuttaṃ
+4 6. sarāgasuttaṃ
+4 7. ahirājasuttaṃ
+4 8. devadattasuttaṃ
+4 9. padhānasuttaṃ
+4 10. adhammikasuttaṃ
+3 (8) 3. apaṇṇakavaggo
+4 1. padhānasuttaṃ
+4 2. sammādiṭṭhisuttaṃ
+4 3. sappurisasuttaṃ
+4 4. paṭhamāggasuttaṃ
+4 5. dutiyāggasuttaṃ
+4 6. kusinārasuttaṃ
+4 7. acinteyyasuttaṃ
+4 8. dakkhiṇasuttaṃ
+4 9. vaṇijjasuttaṃ
+4 10. kambojasuttaṃ
+3 (9) 4. macalavaggo
+4 1. pāṇātipātasuttaṃ
+4 2. musāvādasuttaṃ
+4 3. avaṇṇārahasuttaṃ
+4 4. kodhagarusuttaṃ
+4 5. tamotamasuttaṃ
+4 6. oṇatoṇatasuttaṃ
+4 7. puttasuttaṃ
+4 8. saṃyojanasuttaṃ
+4 9. sammādiṭṭhisuttaṃ
+4 10. khandhasuttaṃ
+3 (10) 5. asuravaggo
+4 1. asurasuttaṃ
+4 2. paṭhamasamādhisuttaṃ
+4 3. dutiyasamādhisuttaṃ
+4 4. tatiyasamādhisuttaṃ
+4 5. chavālātasuttaṃ
+4 6. rāgavinayasuttaṃ
+4 7. khippanisantisuttaṃ
+4 8. attahitasuttaṃ
+4 9. sikkhāpadasuttaṃ
+4 10. potaliyasuttaṃ
+2 3. tatiyapaṇṇāsakaṃ
+3 (11) 1. valāhakavaggo
+4 1. paṭhamavalāhakasuttaṃ
+4 2. dutiyavalāhakasuttaṃ
+4 3. kumbhasuttaṃ
+4 4. udakarahadasuttaṃ
+4 5. ambasuttaṃ
+4 6. dutiyāmbasuttaṃ
+4 8. balībaddasuttaṃ
+4 9. rukkhasuttaṃ
+4 10. āsīvisasuttaṃ
+3 (12) 2. kesivaggo
+4 1. kesisuttaṃ
+4 2. javasuttaṃ
+4 3. patodasuttaṃ
+4 4. nāgasuttaṃ
+4 5. ṭhānasuttaṃ
+4 6. appamādasuttaṃ
+4 7. ārakkhasuttaṃ
+4 8. saṃvejanīyasuttaṃ
+4 9. paṭhamabhayasuttaṃ
+4 10. dutiyabhayasuttaṃ
+3 (13) 3. bhayavaggo
+4 1. attānuvādasuttaṃ
+4 2. ūmibhayasuttaṃ
+4 3. paṭhamanānākaraṇasuttaṃ
+4 4. dutiyanānākaraṇasuttaṃ
+4 5. paṭhamamettāsuttaṃ
+4 6. dutiyamettāsuttaṃ
+4 7. paṭhamatathāgatācchariyasuttaṃ
+4 8. dutiyatathāgatācchariyasuttaṃ
+4 9. ānandācchariyasuttaṃ
+4 10. cakkavattiacchariyasuttaṃ
+3 (14) 4. puggalavaggo
+4 1. saṃyojanasuttaṃ
+4 2. paṭibhānasuttaṃ
+4 3. ugghaṭitaññūsuttaṃ
+4 4. uṭṭhānaphalasuttaṃ
+4 5. sāvajjasuttaṃ
+4 6. paṭhamasīlasuttaṃ
+4 7. dutiyasīlasuttaṃ
+4 8. nikaṭṭhasuttaṃ
+4 9. dhammakathikasuttaṃ
+4 10. vādīsuttaṃ
+3 (15) 5. ābhāvaggo
+4 1. ābhāsuttaṃ
+4 2. pabhāsuttaṃ
+4 3. ālokasuttaṃ
+4 4. obhāsasuttaṃ
+4 5. pajjotasuttaṃ
+4 6. paṭhamakālasuttaṃ
+4 7. dutiyakālasuttaṃ
+4 8. duccaritasuttaṃ
+4 9. sucaritasuttaṃ
+4 10. sārasuttaṃ
+2 4. catutthapaṇṇāsakaṃ
+3 (16) 1. indriyavaggo
+4 1. indriyasuttaṃ
+4 2. saddhābalasuttaṃ
+4 3. paññābalasuttaṃ
+4 4. satibalasuttaṃ
+4 5. paṭisaṅkhānabalasuttaṃ
+4 6. kappasuttaṃ
+4 7. rogasuttaṃ
+4 8. parihānisuttaṃ
+4 9. bhikkhunīsuttaṃ
+4 10. sugatavinayasuttaṃ
+3 (17) 2. paṭipadāvaggo
+4 1. saṃkhittasuttaṃ
+4 2. vitthārasuttaṃ
+4 3. asubhasuttaṃ
+4 4. paṭhamakhamasuttaṃ
+4 5. dutiyakhamasuttaṃ
+4 6. ubhayasuttaṃ
+4 7. mahāmoggallānasuttaṃ
+4 8. sāriputtasuttaṃ
+4 9. sasaṅkhārasuttaṃ
+4 10. yuganaddhasuttaṃ
+3 (18) 3. sañcetaniyavaggo
+4 1. cetanāsuttaṃ
+4 2. vibhattisuttaṃ
+4 3. mahākoṭṭhikasuttaṃ
+4 4. ānandasuttaṃ
+4 5. upavāṇasuttaṃ
+4 6. āyācanasuttaṃ
+4 7. rāhulasuttaṃ
+4 8. jambālīsuttaṃ
+4 9. nibbānasuttaṃ
+4 10. mahāpadesasuttaṃ
+3 (19) 4. brāhmaṇavaggo
+4 1. yodhājīvasuttaṃ
+4 2. pāṭibhogasuttaṃ
+4 3. sutasuttaṃ
+4 4. abhayasuttaṃ
+4 5. brāhmaṇasaccasuttaṃ
+4 6. ummaggasuttaṃ
+4 7. vassakārasuttaṃ
+4 8. upakasuttaṃ
+4 9. sacchikaraṇīyasuttaṃ
+4 10. uposathasuttaṃ
+3 (20) 5. mahāvaggo
+4 1. sotānugatasuttaṃ
+4 2. ṭhānasuttaṃ
+4 3. bhaddiyasuttaṃ
+4 4. sāmugiyasuttaṃ
+4 5. vappasuttaṃ
+4 6. sāḷhasuttaṃ
+4 7. mallikādevīsuttaṃ
+4 8. attantapasuttaṃ
+4 9. taṇhāsuttaṃ
+4 10. pemasuttaṃ
+2 5. pañcamapaṇṇāsakaṃ
+3 (21) 1. sappurisavaggo
+4 1. sikkhāpadasuttaṃ
+4 2. assaddhasuttaṃ
+4 3. sattakammasuttaṃ
+4 4. dasakammasuttaṃ
+4 5. aṭṭhaṅgikasuttaṃ
+4 6. dasamaggasuttaṃ
+4 7. paṭhamapāpadhammasuttaṃ
+4 8. dutiyapāpadhammasuttaṃ
+4 9. tatiyapāpadhammasuttaṃ
+4 10. catutthapāpadhammasuttaṃ
+3 (22) 2. parisāvaggo
+4 1. parisāsuttaṃ
+4 2. diṭṭhisuttaṃ
+4 3. akataññutāsuttaṃ
+4 4. pāṇātipātīsuttaṃ
+4 5. paṭhamamaggasuttaṃ
+4 6. dutiyamaggasuttaṃ
+4 7. paṭhamavohārapathasuttaṃ
+4 8. dutiyavohārapathasuttaṃ
+4 9. ahirikasuttaṃ
+4 10. dussīlasuttaṃ
+3 (23) 3. duccaritavaggo
+4 1. duccaritasuttaṃ
+4 2. diṭṭhisuttaṃ
+4 3. akataññutāsuttaṃ
+4 4. pāṇātipātīsuttaṃ
+4 5. paṭhamamaggasuttaṃ
+4 6. dutiyamaggasuttaṃ
+4 7. paṭhamavohārapathasuttaṃ
+4 8. dutiyavohārapathasuttaṃ
+4 9. ahirikasuttaṃ
+4 10. duppaññasuttaṃ
+4 11. kavisuttaṃ
+3 (24) 4. kammavaggo
+4 1. saṃkhittasuttaṃ
+4 2. vitthārasuttaṃ
+4 3. soṇakāyanasuttaṃ
+4 4. paṭhamasikkhāpadasuttaṃ
+4 5. dutiyasikkhāpadasuttaṃ
+4 6. ariyamaggasuttaṃ
+4 7. bojjhaṅgasuttaṃ
+4 8. sāvajjasuttaṃ
+4 9. abyābajjhasuttaṃ
+4 10. samaṇasuttaṃ
+4 11. sappurisānisaṃsasuttaṃ
+3 (25) 5. āpattibhayavaggo
+4 1. saṅghabhedakasuttaṃ
+4 2. āpattibhayasuttaṃ
+4 3. sikkhānisaṃsasuttaṃ
+4 4. seyyāsuttaṃ
+4 5. thūpārahasuttaṃ
+4 6. paññāvuddhisuttaṃ
+4 7. bahukārasuttaṃ
+4 8. paṭhamavohārasuttaṃ
+4 9. dutiyavohārasuttaṃ
+4 10. tatiyavohārasuttaṃ
+4 11. catutthavohārasuttaṃ
+3 (26) 6. abhiññāvaggo
+4 1. abhiññāsuttaṃ
+4 2. pariyesanāsuttaṃ
+4 3. saṅgahavatthusuttaṃ
+4 4. mālukyaputtasuttaṃ
+4 5. kulasuttaṃ
+4 6. paṭhamāajānīyasuttaṃ
+4 7. dutiyāajānīyasuttaṃ
+4 8. balasuttaṃ
+4 9. araññasuttaṃ
+4 10. kammasuttaṃ
+3 (27) 7. kammapathavaggo
+4 1. pāṇātipātīsuttaṃ
+4 2. adinnādāyīsuttaṃ
+4 3. micchācārīsuttaṃ
+4 4. musāvādīsuttaṃ
+4 5. pisuṇavācāsuttaṃ
+4 6. pharusavācāsuttaṃ
+4 7. samphappalāpasuttaṃ
+4 8. abhijjhālusuttaṃ
+4 9. byāpannacittasuttaṃ
+4 10. micchādiṭṭhisuttaṃ
+3 (28) 8. rāgapeyyālaṃ
+4 1. satipaṭṭhānasuttaṃ
+4 2. sammappadhānasuttaṃ
+4 3. iddhipādasuttaṃ
+4 4-30. pariññādisuttāni
+4 31-510. dosābhiññādisuttāni
+a pañcakanipātapāḷi
+2 1. paṭhamapaṇṇāsakaṃ
+3 1. sekhabalavaggo
+4 1. saṃkhittasuttaṃ
+4 2. vitthatasuttaṃ
+4 3. dukkhasuttaṃ
+4 4. yathābhatasuttaṃ
+4 5. sikkhāsuttaṃ
+4 6. samāpattisuttaṃ
+4 7. kāmasuttaṃ
+4 8. cavanasuttaṃ
+4 9. paṭhamāgāravasuttaṃ
+4 10. dutiyāgāravasuttaṃ
+3 2. balavaggo
+4 1. ananussutasuttaṃ
+4 2. kūṭasuttaṃ
+4 3. saṃkhittasuttaṃ
+4 4. vitthatasuttaṃ
+4 5. daṭṭhabbasuttaṃ
+4 6. punakūṭasuttaṃ
+4 7. paṭhamahitasuttaṃ
+4 8. dutiyahitasuttaṃ
+4 9. tatiyahitasuttaṃ
+4 10. catutthahitasuttaṃ
+3 3. pañcaṅgikavaggo
+4 1. paṭhamāgāravasuttaṃ
+4 2. dutiyāgāravasuttaṃ
+4 3. upakkilesasuttaṃ
+4 4. dussīlasuttaṃ
+4 5. anuggahitasuttaṃ
+4 6. vimuttāyatanasuttaṃ
+4 7. samādhisuttaṃ
+4 8. pañcaṅgikasuttaṃ
+4 9. caṅkamasuttaṃ
+4 10. nāgitasuttaṃ
+3 4. sumanavaggo
+4 1. sumanasuttaṃ
+4 2. cundīsuttaṃ
+4 3. uggahasuttaṃ
+4 4. sīhasenāpatisuttaṃ
+4 5. dānānisaṃsasuttaṃ
+4 6. kāladānasuttaṃ
+4 7. bhojanasuttaṃ
+4 8. saddhasuttaṃ
+4 9. puttasuttaṃ
+4 10. mahāsālaputtasuttaṃ
+3 5. muṇḍarājavaggo
+4 1. ādiyasuttaṃ
+4 2. sappurisasuttaṃ
+4 3. iṭṭhasuttaṃ
+4 4. manāpadāyīsuttaṃ
+4 5. puññābhisandasuttaṃ
+4 6. sampadāsuttaṃ
+4 7. dhanasuttaṃ
+4 8. alabbhanīyaṭhānasuttaṃ
+4 9. kosalasuttaṃ
+4 10. nāradasuttaṃ
+2 2. dutiyapaṇṇāsakaṃ
+3 (6) 1. nīvaraṇavaggo
+4 1. āvaraṇasuttaṃ
+4 2. akusalarāsisuttaṃ
+4 3. padhāniyaṅgasuttaṃ
+4 4. samayasuttaṃ
+4 5. mātāputtasuttaṃ
+4 6. upajjhāyasuttaṃ
+4 7. abhiṇhapaccavekkhitabbaṭhānasuttaṃ
+4 8. licchavikumārakasuttaṃ
+4 9. paṭhamavuḍḍhapabbajitasuttaṃ
+4 10. dutiyavuḍḍhapabbajitasuttaṃ
+3 (7) 2. saññāvaggo
+4 1. paṭhamasaññāsuttaṃ
+4 2. dutiyasaññāsuttaṃ
+4 3. paṭhamavaḍḍhisuttaṃ
+4 4. dutiyavaḍḍhisuttaṃ
+4 5. sākacchasuttaṃ
+4 6. sājīvasuttaṃ
+4 7. paṭhamaiddhipādasuttaṃ
+4 8. dutiyaiddhipādasuttaṃ
+4 9. nibbidāsuttaṃ
+4 10. āsavakkhayasuttaṃ
+3 (8) 3. yodhājīvavaggo
+4 1. paṭhamacetovimuttiphalasuttaṃ
+4 2. dutiyacetovimuttiphalasuttaṃ
+4 3. paṭhamadhammavihārīsuttaṃ
+4 4. dutiyadhammavihārīsuttaṃ
+4 5. paṭhamayodhājīvasuttaṃ
+4 6. dutiyayodhājīvasuttaṃ
+4 7. paṭhamānāgatabhayasuttaṃ
+4 8. dutiyānāgatabhayasuttaṃ
+4 9. tatiyānāgatabhayasuttaṃ
+4 10. catutthānāgatabhayasuttaṃ
+3 (9) 4. theravaggo
+4 1. rajanīyasuttaṃ
+4 2. vītarāgasuttaṃ
+4 3. kuhakasuttaṃ
+4 4. assaddhasuttaṃ
+4 5. akkhamasuttaṃ
+4 6. paṭisambhidāpattasuttaṃ
+4 7. sīlavantasuttaṃ
+4 8. therasuttaṃ
+4 9. paṭhamasekhasuttaṃ
+4 10. dutiyasekhasuttaṃ
+3 (10) 5. kakudhavaggo
+4 1. paṭhamasampadāsuttaṃ
+4 2. dutiyasampadāsuttaṃ
+4 3. byākaraṇasuttaṃ
+4 4. phāsuvihārasuttaṃ
+4 5. akuppasuttaṃ
+4 6. sutadharasuttaṃ
+4 7. kathāsuttaṃ
+4 8. āraññakasuttaṃ
+4 9. sīhasuttaṃ
+4 10. kakudhatherasuttaṃ
+2 3. tatiyapaṇṇāsakaṃ
+3 (11) 1. phāsuvihāravaggo
+4 1. sārajjasuttaṃ
+4 2. ussaṅkitasuttaṃ
+4 3. mahācorasuttaṃ
+4 4. samaṇasukhumālasuttaṃ
+4 5. phāsuvihārasuttaṃ
+4 6. ānandasuttaṃ
+4 7. sīlasuttaṃ
+4 8. asekhasuttaṃ
+4 9. cātuddisasuttaṃ
+4 10. araññasuttaṃ
+3 (12) 2. andhakavindavaggo
+4 1. kulūpakasuttaṃ
+4 2. pacchāsamaṇasuttaṃ
+4 3. sammāsamādhisuttaṃ
+4 4. andhakavindasuttaṃ
+4 5. maccharinīsuttaṃ
+4 6. vaṇṇanāsuttaṃ
+4 7. issukinīsuttaṃ
+4 8. micchādiṭṭhikasuttaṃ
+4 9. micchāvācāsuttaṃ
+4 10. micchāvāyāmasuttaṃ
+3 (13) 3. gilānavaggo
+4 1. gilānasuttaṃ
+4 2. satisūpaṭṭhitasuttaṃ
+4 3. paṭhamaupaṭṭhākasuttaṃ
+4 4. dutiyaupaṭṭhākasuttaṃ
+4 5. paṭhamānāyussāsuttaṃ
+4 6. dutiyānāyussāsuttaṃ
+4 7. vapakāsasuttaṃ
+4 8. samaṇasukhasuttaṃ
+4 9. parikuppasuttaṃ
+4 10. byasanasuttaṃ
+3 (14) 4. rājavaggo
+4 1. paṭhamacakkānuvattanasuttaṃ
+4 2. dutiyacakkānuvattanasuttaṃ
+4 3. dhammarājāsuttaṃ
+4 4. yassaṃdisaṃsuttaṃ
+4 5. paṭhamapatthanāsuttaṃ
+4 6. dutiyapatthanāsuttaṃ
+4 7. appaṃsupatisuttaṃ
+4 8. bhattādakasuttaṃ
+4 9. akkhamasuttaṃ
+4 10. sotasuttaṃ
+3 (15) 5. tikaṇḍakīvaggo
+4 1. avajānātisuttaṃ
+4 2. ārabhatisuttaṃ
+4 3. sārandadasuttaṃ
+4 4. tikaṇḍakīsuttaṃ
+4 5. nirayasuttaṃ
+4 6. mittasuttaṃ
+4 7. asappurisadānasuttaṃ
+4 8. sappurisadānasuttaṃ
+4 9. paṭhamasamayavimuttasuttaṃ
+4 10. dutiyasamayavimuttasuttaṃ
+2 4. catutthapaṇṇāsakaṃ
+3 (16) 1. saddhammavaggo
+4 1. paṭhamasammattaniyāmasuttaṃ
+4 2. dutiyasammattaniyāmasuttaṃ
+4 3. tatiyasammattaniyāmasuttaṃ
+4 4. paṭhamasaddhammasammosasuttaṃ
+4 5. dutiyasaddhammasammosasuttaṃ
+4 6. tatiyasaddhammasammosasuttaṃ
+4 7. dukkathāsuttaṃ
+4 8. sārajjasuttaṃ
+4 9. udāyīsuttaṃ
+4 10. duppaṭivinodayasuttaṃ
+3 (17) 2. āghātavaggo
+4 1. paṭhamāaghātapaṭivinayasuttaṃ
+4 2. dutiyāaghātapaṭivinayasuttaṃ
+4 3. sākacchasuttaṃ
+4 4. sājīvasuttaṃ
+4 5. pañhapucchāsuttaṃ
+4 6. nirodhasuttaṃ
+4 7. codanāsuttaṃ
+4 8. sīlasuttaṃ
+4 9. khippanisantisuttaṃ
+4 10. bhaddajisuttaṃ
+3 (18) 3. upāsakavaggo
+4 1. sārajjasuttaṃ
+4 2. visāradasuttaṃ
+4 3. nirayasuttaṃ
+4 4. verasuttaṃ
+4 5. caṇḍālasuttaṃ
+4 6. pītisuttaṃ
+4 7. vaṇijjāsuttaṃ
+4 8. rājāsuttaṃ
+4 9. gihisuttaṃ
+4 10. gavesīsuttaṃ
+3 (19) 4. araññavaggo
+4 1. āraññikasuttaṃ
+4 2. cīvarasuttaṃ
+4 3. rukkhamūlikasuttaṃ
+4 4. sosānikasuttaṃ
+4 5. abbhokāsikasuttaṃ
+4 6. nesajjikasuttaṃ
+4 7. yathāsanthatikasuttaṃ
+4 8. ekāsanikasuttaṃ
+4 9. khalupacchābhattikasuttaṃ
+4 10. pattapiṇḍikasuttaṃ
+3 (20) 5. brāhmaṇavaggo
+4 1. soṇasuttaṃ
+4 2. doṇabrāhmaṇasuttaṃ
+4 3. saṅgāravasuttaṃ
+4 4. kāraṇapālīsuttaṃ
+4 5. piṅgiyānīsuttaṃ
+4 6. mahāsupinasuttaṃ
+4 7. vassasuttaṃ
+4 8. vācāsuttaṃ
+4 9. kulasuttaṃ
+4 10. nissāraṇīyasuttaṃ
+2 5. pañcamapaṇṇāsakaṃ
+3 (21) 1. kimilavaggo
+4 1. kimilasuttaṃ
+4 2. dhammassavanasuttaṃ
+4 3. assājānīyasuttaṃ
+4 4. balasuttaṃ
+4 5. cetokhilasuttaṃ
+4 6. vinibandhasuttaṃ
+4 7. yāgusuttaṃ
+4 8. dantakaṭṭhasuttaṃ
+4 9. gītassarasuttaṃ
+4 10. muṭṭhassatisuttaṃ
+3 (22) 2. akkosakavaggo
+4 1. akkosakasuttaṃ
+4 2. bhaṇḍanakārakasuttaṃ
+4 3. sīlasuttaṃ
+4 4. bahubhāṇisuttaṃ
+4 5. paṭhamākkhantisuttaṃ
+4 6. dutiyākkhantisuttaṃ
+4 7. paṭhamāpāsādikasuttaṃ
+4 8. dutiyāpāsādikasuttaṃ
+4 9. aggisuttaṃ
+4 10. madhurāsuttaṃ
+3 (23) 3. dīghacārikavaggo
+4 1. paṭhamadīghacārikasuttaṃ
+4 2. dutiyadīghacārikasuttaṃ
+4 3. atinivāsasuttaṃ
+4 4. maccharīsuttaṃ
+4 5. paṭhamakulūpakasuttaṃ
+4 6. dutiyakulūpakasuttaṃ
+4 7. bhogasuttaṃ
+4 8. ussūrabhattasuttaṃ
+4 9. paṭhamakaṇhasappasuttaṃ
+4 10. dutiyakaṇhasappasuttaṃ
+3 (24) 4. āvāsikavaggo
+4 1. āvāsikasuttaṃ
+4 2. piyasuttaṃ
+4 3. sobhanasuttaṃ
+4 4. bahūpakārasuttaṃ
+4 5. anukampasuttaṃ
+4 6. paṭhamāvaṇṇārahasuttaṃ
+4 7. dutiyāvaṇṇārahasuttaṃ
+4 8. tatiyāvaṇṇārahasuttaṃ
+4 9. paṭhamamacchariyasuttaṃ
+4 10. dutiyamacchariyasuttaṃ
+3 (25) 5. duccaritavaggo
+4 1. paṭhamaduccaritasuttaṃ
+4 2. paṭhamakāyaduccaritasuttaṃ
+4 3. paṭhamavacīduccaritasuttaṃ
+4 4. paṭhamamanoduccaritasuttaṃ
+4 5. dutiyaduccaritasuttaṃ
+4 6. dutiyakāyaduccaritasuttaṃ
+4 7. dutiyavacīduccaritasuttaṃ
+4 8. dutiyamanoduccaritasuttaṃ
+4 9. sivathikasuttaṃ
+4 10. puggalappasādasuttaṃ
+3 (26) 6. upasampadāvaggo
+4 1. upasampādetabbasuttaṃ
+4 2. nissayasuttaṃ
+4 3. sāmaṇerasuttaṃ
+4 4. pañcamacchariyasuttaṃ
+4 5. macchariyappahānasuttaṃ
+4 6. paṭhamajhānasuttaṃ
+4 7-13. dutiyajhānasuttādisattakaṃ
+4 14. aparapaṭhamajhānasuttaṃ
+4 15-21. aparadutiyajhānasuttādisattakaṃ
+3 1. sammutipeyyālaṃ
+4 1. bhattuddesakasuttaṃ
+4 2-14. senāsanapaññāpakasuttāditerasakaṃ
+3 2. sikkhāpadapeyyālaṃ
+4 1. bhikkhusuttaṃ
+4 2-7. bhikkhunīsuttādichakkaṃ
+4 8. ājīvakasuttaṃ
+4 9-17. nigaṇṭhasuttādinavakaṃ
+3 3. rāgapeyyālaṃ
+a chakkanipātapāḷi
+2 1. paṭhamapaṇṇāsakaṃ
+3 1. āhuneyyavaggo
+4 1. paṭhamāahuneyyasuttaṃ
+4 2. dutiyāahuneyyasuttaṃ
+4 3. indriyasuttaṃ
+4 4. balasuttaṃ
+4 5. paṭhamāajānīyasuttaṃ
+4 6. dutiyāajānīyasuttaṃ
+4 7. tatiyāajānīyasuttaṃ
+4 8. anuttariyasuttaṃ
+4 9. anussatiṭṭhānasuttaṃ
+4 10. mahānāmasuttaṃ
+3 2. sāraṇīyavaggo
+4 1. paṭhamasāraṇīyasuttaṃ
+4 2. dutiyasāraṇīyasuttaṃ
+4 3. nissāraṇīyasuttaṃ
+4 4. bhaddakasuttaṃ
+4 5. anutappiyasuttaṃ
+4 6. nakulapitusuttaṃ
+4 7. soppasuttaṃ
+4 8. macchabandhasuttaṃ
+4 9. paṭhamamaraṇassatisuttaṃ
+4 10. dutiyamaraṇassatisuttaṃ
+3 3. anuttariyavaggo
+4 1. sāmakasuttaṃ
+4 2. aparihāniyasuttaṃ
+4 3. bhayasuttaṃ
+4 4. himavantasuttaṃ
+4 5. anussatiṭṭhānasuttaṃ
+4 6. mahākaccānasuttaṃ
+4 7. paṭhamasamayasuttaṃ
+4 8. dutiyasamayasuttaṃ
+4 9. udāyīsuttaṃ
+4 10. anuttariyasuttaṃ
+3 4. devatāvaggo
+4 1. sekhasuttaṃ
+4 2. paṭhamāparihānasuttaṃ
+4 3. dutiyāparihānasuttaṃ
+4 4. mahāmoggallānasuttaṃ
+4 5. vijjābhāgiyasuttaṃ
+4 6. vivādamūlasuttaṃ
+4 7. chaḷaṅgadānasuttaṃ
+4 8. attakārīsuttaṃ
+4 9. nidānasuttaṃ
+4 10. kimilasuttaṃ
+4 11. dārukkhandhasuttaṃ
+4 12. nāgitasuttaṃ
+3 5. dhammikavaggo
+4 1. nāgasuttaṃ
+4 2. migasālāsuttaṃ
+4 3. iṇasuttaṃ
+4 4. mahācundasuttaṃ
+4 5. paṭhamasandiṭṭhikasuttaṃ
+4 6. dutiyasandiṭṭhikasuttaṃ
+4 7. khemasuttaṃ
+4 8. indriyasaṃvarasuttaṃ
+4 9. ānandasuttaṃ
+4 10. khattiyasuttaṃ
+4 11. appamādasuttaṃ
+4 12. dhammikasuttaṃ
+2 2. dutiyapaṇṇāsakaṃ
+3 6. mahāvaggo
+4 1. soṇasuttaṃ
+4 2. phaggunasuttaṃ
+4 3. chaḷabhijātisuttaṃ
+4 4. āsavasuttaṃ
+4 5. dārukammikasuttaṃ
+4 6. hatthisāriputtasuttaṃ
+4 7. majjhesuttaṃ
+4 8. purisindriyañāṇasuttaṃ
+4 9. nibbedhikasuttaṃ
+4 10. sīhanādasuttaṃ
+3 7. devatāvaggo
+4 1. anāgāmiphalasuttaṃ
+4 2. arahattasuttaṃ
+4 3. mittasuttaṃ
+4 4. saṅgaṇikārāmasuttaṃ
+4 5. devatāsuttaṃ
+4 6. samādhisuttaṃ
+4 7. sakkhibhabbasuttaṃ
+4 8. balasuttaṃ
+4 9. paṭhamatajjhānasuttaṃ
+4 10. dutiyatajjhānasuttaṃ
+3 8. arahattavaggo
+4 1. dukkhasuttaṃ
+4 2. arahattasuttaṃ
+4 3. uttarimanussadhammasuttaṃ
+4 4. sukhasomanassasuttaṃ
+4 5. adhigamasuttaṃ
+4 6. mahantattasuttaṃ
+4 7. paṭhamanirayasuttaṃ
+4 8. dutiyanirayasuttaṃ
+4 9. aggadhammasuttaṃ
+4 10. rattidivasasuttaṃ
+3 9. sītivaggo
+4 1. sītibhāvasuttaṃ
+4 2. āvaraṇasuttaṃ
+4 3. voropitasuttaṃ
+4 4. sussūsatisuttaṃ
+4 5. appahāyasuttaṃ
+4 6. pahīnasuttaṃ
+4 7. abhabbasuttaṃ
+4 8. paṭhamābhabbaṭṭhānasuttaṃ
+4 9. dutiyābhabbaṭṭhānasuttaṃ
+4 10. tatiyābhabbaṭṭhānasuttaṃ
+4 11. catutthābhabbaṭṭhānasuttaṃ
+3 10. ānisaṃsavaggo
+4 1. pātubhāvasuttaṃ
+4 2. ānisaṃsasuttaṃ
+4 3. aniccasuttaṃ
+4 4. dukkhasuttaṃ
+4 5. anattasuttaṃ
+4 6. nibbānasuttaṃ
+4 7. anavatthitasuttaṃ
+4 8. ukkhittāsikasuttaṃ
+4 9. atammayasuttaṃ
+4 10. bhavasuttaṃ
+4 11. taṇhāsuttaṃ
+3 11. tikavaggo
+4 1. rāgasuttaṃ
+4 2. duccaritasuttaṃ
+4 3. vitakkasuttaṃ
+4 4. saññāsuttaṃ
+4 5. dhātusuttaṃ
+4 6. assādasuttaṃ
+4 7. aratisuttaṃ
+4 8. santuṭṭhitāsuttaṃ
+4 9. dovacassatāsuttaṃ
+4 10. uddhaccasuttaṃ
+3 12. sāmaññavaggo
+4 1. kāyānupassīsuttaṃ
+4 2. dhammānupassīsuttaṃ
+4 3. tapussasuttaṃ
+4 4-23. bhallikādisuttāni
+3 13. rāgapeyyālaṃ
+a sattakanipātapāḷi
+2 paṭhamapaṇṇāsakaṃ
+3 1. dhanavaggo
+4 1. paṭhamapiyasuttaṃ
+4 2. dutiyapiyasuttaṃ
+4 3. saṃkhittabalasuttaṃ
+4 4. vitthatabalasuttaṃ
+4 5. saṃkhittadhanasuttaṃ
+4 6. vitthatadhanasuttaṃ
+4 7. uggasuttaṃ
+4 8. saṃyojanasuttaṃ
+4 9. pahānasuttaṃ
+4 10. macchariyasuttaṃ
+3 2. anusayavaggo
+4 1. paṭhamānusayasuttaṃ
+4 2. dutiyānusayasuttaṃ
+4 3. kulasuttaṃ
+4 4. puggalasuttaṃ
+4 5. udakūpamāsuttaṃ
+4 6. aniccānupassīsuttaṃ
+4 7. dukkhānupassīsuttaṃ
+4 8. anattānupassīsuttaṃ
+4 9. nibbānasuttaṃ
+4 10. niddasavatthusuttaṃ
+3 3. vajjisattakavaggo
+4 1. sārandadasuttaṃ
+4 2. vassakārasuttaṃ
+4 3. paṭhamasattakasuttaṃ
+4 4. dutiyasattakasuttaṃ
+4 5. tatiyasattakasuttaṃ
+4 6. bojjhaṅgasuttaṃ
+4 7. saññāsuttaṃ
+4 8. paṭhamaparihānisuttaṃ
+4 9. dutiyaparihānisuttaṃ
+4 10. vipattisuttaṃ
+4 11. parābhavasuttaṃ
+3 4. devatāvaggo
+4 1. appamādagāravasuttaṃ
+4 2. hirīgāravasuttaṃ
+4 3. paṭhamasovacassatāsuttaṃ
+4 4. dutiyasovacassatāsuttaṃ
+4 5. paṭhamamittasuttaṃ
+4 6. dutiyamittasuttaṃ
+4 7. paṭhamapaṭisambhidāsuttaṃ
+4 8. dutiyapaṭisambhidāsuttaṃ
+4 9. paṭhamavasasuttaṃ
+4 10. dutiyavasasuttaṃ
+4 11. paṭhamaniddasasuttaṃ
+4 12. dutiyaniddasasuttaṃ
+3 5. mahāyaññavaggo
+4 1. sattaviññāṇaṭṭhitisuttaṃ
+4 2. samādhiparikkhārasuttaṃ
+4 3. paṭhamāggisuttaṃ
+4 4. dutiyāggisuttaṃ
+4 5. paṭhamasaññāsuttaṃ
+4 6. dutiyasaññāsuttaṃ
+4 7. methunasuttaṃ
+4 8. saṃyogasuttaṃ
+4 9. dānamahapphalasuttaṃ
+4 10. nandamātāsuttaṃ
+3 6. abyākatavaggo
+4 1. abyākatasuttaṃ
+4 2. purisagatisuttaṃ
+4 3. tissabrahmāsuttaṃ
+4 4. sīhasenāpatisuttaṃ
+4 5. arakkheyyasuttaṃ
+4 6. kimilasuttaṃ
+4 7. sattadhammasuttaṃ
+4 8. pacalāyamānasuttaṃ
+4 9. mettasuttaṃ
+4 10. bhariyāsuttaṃ
+4 11. kodhanasuttaṃ
+3 7. mahāvaggo
+4 1. hirīottappasuttaṃ
+4 2. sattasūriyasuttaṃ
+4 3. nagaropamasuttaṃ
+4 4. dhammaññūsuttaṃ
+4 5. pāricchattakasuttaṃ
+4 6. sakkaccasuttaṃ
+4 7. bhāvanāsuttaṃ
+4 8. aggikkhandhopamasuttaṃ
+4 9. sunettasuttaṃ
+4 10. arakasuttaṃ
+3 8. vinayavaggo
+4 1. paṭhamavinayadharasuttaṃ
+4 2. dutiyavinayadharasuttaṃ
+4 3. tatiyavinayadharasuttaṃ
+4 4. catutthavinayadharasuttaṃ
+4 5. paṭhamavinayadharasobhanasuttaṃ
+4 6. dutiyavinayadharasobhanasuttaṃ
+4 7. tatiyavinayadharasobhanasuttaṃ
+4 8. catutthavinayadharasobhanasuttaṃ
+4 9. satthusāsanasuttaṃ
+4 10. adhikaraṇasamathasuttaṃ
+3 9. samaṇavaggo
+4 1. bhikkhusuttaṃ
+4 2. samaṇasuttaṃ
+4 3. brāhmaṇasuttaṃ
+4 4. sottiyasuttaṃ
+4 5. nhātakasuttaṃ
+4 6. vedagūsuttaṃ
+4 7. ariyasuttaṃ
+4 8. arahāsuttaṃ
+4 9. asaddhammasuttaṃ
+4 10. saddhammasuttaṃ
+3 10. āhuneyyavaggo
+3 11. rāgapeyyālaṃ
+a aṭṭhakanipātapāḷi
+2 1. paṭhamapaṇṇāsakaṃ
+3 1. mettāvaggo
+4 1. mettāsuttaṃ
+4 2. paññāsuttaṃ
+4 3. paṭhamāppiyasuttaṃ
+4 4. dutiyāppiyasuttaṃ
+4 5. paṭhamalokadhammasuttaṃ
+4 6. dutiyalokadhammasuttaṃ
+4 7. devadattavipattisuttaṃ
+4 8. uttaravipattisuttaṃ
+4 9. nandasuttaṃ
+4 10. kāraṇḍavasuttaṃ
+3 2. mahāvaggo
+4 1. verañjasuttaṃ
+4 2. sīhasuttaṃ
+4 3. assājānīyasuttaṃ
+4 4. assakhaḷuṅkasuttaṃ
+4 5. malasuttaṃ
+4 6. dūteyyasuttaṃ
+4 7. paṭhamabandhanasuttaṃ
+4 8. dutiyabandhanasuttaṃ
+4 9. pahārādasuttaṃ
+4 10. uposathasuttaṃ
+3 3. gahapativaggo
+4 1. paṭhamauggasuttaṃ
+4 2. dutiyauggasuttaṃ
+4 3. paṭhamahatthakasuttaṃ
+4 4. dutiyahatthakasuttaṃ
+4 5. mahānāmasuttaṃ
+4 6. jīvakasuttaṃ
+4 7. paṭhamabalasuttaṃ
+4 8. dutiyabalasuttaṃ
+4 9. akkhaṇasuttaṃ
+4 10. anuruddhamahāvitakkasuttaṃ
+3 4. dānavaggo
+4 1. paṭhamadānasuttaṃ
+4 2. dutiyadānasuttaṃ
+4 3. dānavatthusuttaṃ
+4 4. khettasuttaṃ
+4 5. dānūpapattisuttaṃ
+4 6. puññakiriyavatthusuttaṃ
+4 7. sappurisadānasuttaṃ
+4 8. sappurisasuttaṃ
+4 9. abhisandasuttaṃ
+4 10. duccaritavipākasuttaṃ
+3 5. uposathavaggo
+4 1. saṅkhittūposathasuttaṃ
+4 2. vitthatūposathasuttaṃ
+4 3. visākhāsuttaṃ
+4 4. vāseṭṭhasuttaṃ
+4 5. bojjhasuttaṃ
+4 6. anuruddhasuttaṃ
+4 7. dutiyavisākhāsuttaṃ
+4 8. nakulamātāsuttaṃ
+4 9. paṭhamaidhalokikasuttaṃ
+4 10. dutiyaidhalokikasuttaṃ
+2 2. dutiyapaṇṇāsakaṃ
+3 (6) 1. gotamīvaggo
+4 1. gotamīsuttaṃ
+4 2. ovādasuttaṃ
+4 3. saṃkhittasuttaṃ
+4 4. dīghajāṇusuttaṃ
+4 5. ujjayasuttaṃ
+4 6. bhayasuttaṃ
+4 7. paṭhamāahuneyyasuttaṃ
+4 8. dutiyāahuneyyasuttaṃ
+4 9. paṭhamapuggalasuttaṃ
+4 10. dutiyapuggalasuttaṃ
+3 (7) 2. bhūmicālavaggo
+4 1. icchāsuttaṃ
+4 2. alaṃsuttaṃ
+4 3. saṃkhittasuttaṃ
+4 4. gayāsīsasuttaṃ
+4 5. abhibhāyatanasuttaṃ
+4 6. vimokkhasuttaṃ
+4 7. anariyavohārasuttaṃ
+4 8. ariyavohārasuttaṃ
+4 9. parisāsuttaṃ
+4 10. bhūmicālasuttaṃ
+3 (8) 3. yamakavaggo
+4 1. paṭhamasaddhāsuttaṃ
+4 2. dutiyasaddhāsuttaṃ
+4 3. paṭhamamaraṇassatisuttaṃ
+4 4. dutiyamaraṇassatisuttaṃ
+4 5. paṭhamasampadāsuttaṃ
+4 6. dutiyasampadāsuttaṃ
+4 7. icchāsuttaṃ
+4 8. alaṃsuttaṃ
+4 9. parihānasuttaṃ
+4 10. kusītārambhavatthusuttaṃ
+3 (9) 4. sativaggo
+4 1. satisampajaññasuttaṃ
+4 2. puṇṇiyasuttaṃ
+4 3. mūlakasuttaṃ
+4 4. corasuttaṃ
+4 5. samaṇasuttaṃ
+4 6. yasasuttaṃ
+4 7. pattanikujjanasuttaṃ
+4 8. appasādapavedanīyasuttaṃ
+4 9. paṭisāraṇīyasuttaṃ
+4 10. sammāvattanasuttaṃ
+3 (10) 5. sāmaññavaggo
+3 (11). rāgapeyyālaṃ
+a navakanipātapāḷi
+2 1. paṭhamapaṇṇāsakaṃ
+3 1. sambodhivaggo
+4 1. sambodhisuttaṃ
+4 2. nissayasuttaṃ
+4 3. meghiyasuttaṃ
+4 4. nandakasuttaṃ
+4 5. balasuttaṃ
+4 6. sevanāsuttaṃ
+4 7. sutavāsuttaṃ
+4 8. sajjhasuttaṃ
+4 9. puggalasuttaṃ
+4 10. āhuneyyasuttaṃ
+3 2. sīhanādavaggo
+4 1. sīhanādasuttaṃ
+4 2. saupādisesasuttaṃ
+4 3. koṭṭhikasuttaṃ
+4 4. samiddhisuttaṃ
+4 5. gaṇḍasuttaṃ
+4 6. saññāsuttaṃ
+4 7. kulasuttaṃ
+4 8. navaṅguposathasuttaṃ
+4 9. devatāsuttaṃ
+4 10. velāmasuttaṃ
+3 3. sattāvāsavaggo
+4 1. tiṭhānasuttaṃ
+4 2. assakhaḷuṅkasuttaṃ
+4 3. taṇhāmūlakasuttaṃ
+4 4. sattāvāsasuttaṃ
+4 5. paññāsuttaṃ
+4 6. silāyūpasuttaṃ
+4 7. paṭhamaverasuttaṃ
+4 8. dutiyaverasuttaṃ
+4 9. āghātavatthusuttaṃ
+4 10. āghātapaṭivinayasuttaṃ
+4 11. anupubbanirodhasuttaṃ
+3 4. mahāvaggo
+4 1. anupubbavihārasuttaṃ
+4 2. anupubbavihārasamāpattisuttaṃ
+4 3. nibbānasukhasuttaṃ
+4 4. gāvīupamāsuttaṃ
+4 5. jhānasuttaṃ
+4 6. ānandasuttaṃ
+4 7. lokāyatikasuttaṃ
+4 8. devāsurasaṅgāmasuttaṃ
+4 9. nāgasuttaṃ
+4 10. tapussasuttaṃ
+3 5. sāmaññavaggo
+4 1. sambādhasuttaṃ
+4 2. kāyasakkhīsuttaṃ
+4 3. paññāvimuttasuttaṃ
+4 4. ubhatobhāgavimuttasuttaṃ
+4 5. sandiṭṭhikadhammasuttaṃ
+4 6. sandiṭṭhikanibbānasuttaṃ
+4 7. nibbānasuttaṃ
+4 8. parinibbānasuttaṃ
+4 9. tadaṅganibbānasuttaṃ
+4 10. diṭṭhadhammanibbānasuttaṃ
+2 2. dutiyapaṇṇāsakaṃ
+3 (6) 1. khemavaggo
+4 1. khemasuttaṃ
+4 2. khemappattasuttaṃ
+4 3. amatasuttaṃ
+4 4. amatappattasuttaṃ
+4 5. abhayasuttaṃ
+4 6. abhayappattasuttaṃ
+4 7. passaddhisuttaṃ
+4 8. anupubbapassaddhisuttaṃ
+4 9. nirodhasuttaṃ
+4 10. anupubbanirodhasuttaṃ
+4 11. abhabbasuttaṃ
+3 (7) 2. satipaṭṭhānavaggo
+4 1. sikkhādubbalyasuttaṃ
+4 2. nīvaraṇasuttaṃ
+4 3. kāmaguṇasuttaṃ
+4 4. upādānakkhandhasuttaṃ
+4 5. orambhāgiyasuttaṃ
+4 6. gatisuttaṃ
+4 7. macchariyasuttaṃ
+4 8. uddhambhāgiyasuttaṃ
+4 9. cetokhilasuttaṃ
+4 10. cetasovinibandhasuttaṃ
+3 (8) 3. sammappadhānavaggo
+4 1. sikkhasuttaṃ
+4 10. cetasovinibandhasuttaṃ
+3 (9) 4. iddhipādavaggo
+4 1. sikkhasuttaṃ
+4 10. cetasovinibandhasuttaṃ
+3 (10) 5. rāgapeyyālaṃ
+a dasakanipātapāḷi
+2 1. paṭhamapaṇṇāsakaṃ
+3 1. ānisaṃsavaggo
+4 1. kimatthiyasuttaṃ
+4 2. cetanākaraṇīyasuttaṃ
+4 3. paṭhamaupanisasuttaṃ
+4 4. dutiyaupanisasuttaṃ
+4 5. tatiyaupanisasuttaṃ
+4 6. samādhisuttaṃ
+4 7. sāriputtasuttaṃ
+4 8. jhānasuttaṃ
+4 9. santavimokkhasuttaṃ
+4 10. vijjāsuttaṃ
+3 2. nāthavaggo
+4 1. senāsanasuttaṃ
+4 2. pañcaṅgasuttaṃ
+4 3. saṃyojanasuttaṃ
+4 4. cetokhilasuttaṃ
+4 5. appamādasuttaṃ
+4 6. āhuneyyasuttaṃ
+4 7. paṭhamanāthasuttaṃ
+4 8. dutiyanāthasuttaṃ
+4 9. paṭhamāriyāvāsasuttaṃ
+4 10. dutiyāriyāvāsasuttaṃ
+3 3. mahāvaggo
+4 1. sīhanādasuttaṃ
+4 2. adhivuttipadasuttaṃ
+4 3. kāyasuttaṃ
+4 4. mahācundasuttaṃ
+4 5. kasiṇasuttaṃ
+4 6. kāḷīsuttaṃ
+4 7. paṭhamamahāpañhāsuttaṃ
+4 8. dutiyamahāpañhāsuttaṃ
+4 9. paṭhamakosalasuttaṃ
+4 10. dutiyakosalasuttaṃ
+3 4. upālivaggo
+4 1. upālisuttaṃ
+4 2. pātimokkhaṭṭhapanāsuttaṃ
+4 3. ubbāhikāsuttaṃ
+4 4. upasampadāsuttaṃ
+4 5. nissayasuttaṃ
+4 6. sāmaṇerasuttaṃ
+4 7. saṅghabhedasuttaṃ
+4 8. saṅghasāmaggīsuttaṃ
+4 9. paṭhamāanandasuttaṃ
+4 10. dutiyāanandasuttaṃ
+3 5. akkosavaggo
+4 1. vivādasuttaṃ
+4 2. paṭhamavivādamūlasuttaṃ
+4 3. dutiyavivādamūlasuttaṃ
+4 4. kusinārasuttaṃ
+4 5. rājantepurappavesanasuttaṃ
+4 6. sakkasuttaṃ
+4 7. mahālisuttaṃ
+4 8. pabbajitābhiṇhasuttaṃ
+4 9. sarīraṭṭhadhammasuttaṃ
+4 10. bhaṇḍanasuttaṃ
+2 2. dutiyapaṇṇāsakaṃ
+3 (6) 1. sacittavaggo
+4 1. sacittasuttaṃ
+4 2. sāriputtasuttaṃ
+4 3. ṭhitisuttaṃ
+4 4. samathasuttaṃ
+4 5. parihānasuttaṃ
+4 6. paṭhamasaññāsuttaṃ
+4 7. dutiyasaññāsuttaṃ
+4 8. mūlakasuttaṃ
+4 9. pabbajjāsuttaṃ
+4 10. girimānandasuttaṃ
+3 (7) 2. yamakavaggo
+4 1. avijjāsuttaṃ
+4 2. ḍtaṇhāsuttaṃ
+4 3. niṭṭhaṅgatasuttaṃ
+4 4. aveccappasannasuttaṃ
+4 5. paṭhamasukhasuttaṃ
+4 6. dutiyasukhasuttaṃ
+4 7. paṭhamanaḷakapānasuttaṃ
+4 8. dutiyanaḷakapānasuttaṃ
+4 9. paṭhamakathāvatthusuttaṃ
+4 10. dutiyakathāvatthusuttaṃ
+3 (8) 3. ākaṅkhavaggo
+4 1. ākaṅkhasuttaṃ
+4 2. kaṇṭakasuttaṃ
+4 3. iṭṭhadhammasuttaṃ
+4 4. vaḍḍhisuttaṃ
+4 5. migasālāsuttaṃ
+4 6. tayodhammasuttaṃ
+4 7. kākasuttaṃ
+4 8. nigaṇṭhasuttaṃ
+4 9. āghātavatthusuttaṃ
+4 10. āghātapaṭivinayasuttaṃ
+3 (9) 4. theravaggo
+4 1. vāhanasuttaṃ
+4 2. ānandasuttaṃ
+4 3. puṇṇiyasuttaṃ
+4 4. byākaraṇasuttaṃ
+4 5. katthīsuttaṃ
+4 6. adhimānasuttaṃ
+4 7. nappiyasuttaṃ
+4 8. akkosakasuttaṃ
+4 9. kokālikasuttaṃ
+4 10. khīṇāsavabalasuttaṃ
+3 (10) 5. upālivaggo
+4 1. kāmabhogīsuttaṃ
+4 2. bhayasuttaṃ
+4 3. kiṃdiṭṭhikasuttaṃ
+4 4. vajjiyamāhitasuttaṃ
+4 5. uttiyasuttaṃ
+4 6. kokanudasuttaṃ
+4 7. āhuneyyasuttaṃ
+4 8. therasuttaṃ
+4 9. upālisuttaṃ
+4 10. abhabbasuttaṃ
+2 3. tatiyapaṇṇāsakaṃ
+3 (11) 1. samaṇasaññāvaggo
+4 1. samaṇasaññāsuttaṃ
+4 2. bojjhaṅgasuttaṃ
+4 3. micchattasuttaṃ
+4 4. bījasuttaṃ
+4 5. vijjāsuttaṃ
+4 6. nijjarasuttaṃ
+4 7. dhovanasuttaṃ
+4 8. tikicchakasuttaṃ
+4 9. vamanasuttaṃ
+4 10. niddhamanīyasuttaṃ
+4 11. paṭhamāsekhasuttaṃ
+4 12. dutiyāsekhasuttaṃ
+3 (12) 2. paccorohaṇivaggo
+4 1. paṭhamādhammasuttaṃ
+4 2. dutiyādhammasuttaṃ
+4 3. tatiyādhammasuttaṃ
+4 4. ajitasuttaṃ
+4 5. saṅgāravasuttaṃ
+4 6. orimatīrasuttaṃ
+4 7. paṭhamapaccorohaṇīsuttaṃ
+4 8. dutiyapaccorohaṇīsuttaṃ
+4 9. pubbaṅgamasuttaṃ
+4 10. āsavakkhayasuttaṃ
+3 (13) 3. parisuddhavaggo
+4 1. paṭhamasuttaṃ
+4 2. dutiyasuttaṃ
+4 3. tatiyasuttaṃ
+4 4. catutthasuttaṃ
+4 5. pañcamasuttaṃ
+4 6. chaṭṭhasuttaṃ
+4 7. sattamasuttaṃ
+4 8. aṭṭhamasuttaṃ
+4 9. navamasuttaṃ
+4 10. dasamasuttaṃ
+4 11. ekādasamasuttaṃ
+3 (14) 4. sādhuvaggo
+4 1. sādhusuttaṃ
+4 2. ariyadhammasuttaṃ
+4 3. akusalasuttaṃ
+4 4. atthasuttaṃ
+4 5. dhammasuttaṃ
+4 6. sāsavasuttaṃ
+4 7. sāvajjasuttaṃ
+4 8. tapanīyasuttaṃ
+4 9. ācayagāmisuttaṃ
+4 10. dukkhudrayasuttaṃ
+4 11. dukkhavipākasuttaṃ
+3 (15) 5. ariyavaggo
+4 1. ariyamaggasuttaṃ
+4 2. kaṇhamaggasuttaṃ
+4 3. saddhammasuttaṃ
+4 4. sappurisadhammasuttaṃ
+4 5. uppādetabbasuttaṃ
+4 6. āsevitabbasuttaṃ
+4 7. bhāvetabbasuttaṃ
+4 8. bahulīkātabbasuttaṃ
+4 9. anussaritabbasuttaṃ
+4 10. sacchikātabbasuttaṃ
+2 4. catutthapaṇṇāsakaṃ
+3 (16) 1. puggalavaggo
+4 1. sevitabbasuttaṃ
+4 2-12. bhajitabbādisuttāni
+3 (17) 2. jāṇussoṇivaggo
+4 1. brāhmaṇapaccorohaṇīsuttaṃ
+4 2. ariyapaccorohaṇīsuttaṃ
+4 3. saṅgāravasuttaṃ
+4 4. orimasuttaṃ
+4 5. paṭhamādhammasuttaṃ
+4 6. dutiyādhammasuttaṃ
+4 7. tatiyādhammasuttaṃ
+4 8. kammanidānasuttaṃ
+4 9. parikkamanasuttaṃ
+4 10. cundasuttaṃ
+4 11. jāṇussoṇisuttaṃ
+3 (18) 3. sādhuvaggo
+4 1. sādhusuttaṃ
+4 2. ariyadhammasuttaṃ
+4 3. kusalasuttaṃ
+4 4. atthasuttaṃ
+4 5. dhammasuttaṃ
+4 6. āsavasuttaṃ
+4 7. vajjasuttaṃ
+4 8. tapanīyasuttaṃ
+4 9. ācayagāmisuttaṃ
+4 10. dukkhudrayasuttaṃ
+4 11. vipākasuttaṃ
+3 (19) 4. ariyamaggavaggo
+4 1. ariyamaggasuttaṃ
+4 2. kaṇhamaggasuttaṃ
+4 3. saddhammasuttaṃ
+4 4. sappurisadhammasuttaṃ
+4 5. uppādetabbadhammasuttaṃ
+4 6. āsevitabbadhammasuttaṃ
+4 7. bhāvetabbadhammasuttaṃ
+4 8. bahulīkātabbasuttaṃ
+4 9. anussaritabbasuttaṃ
+4 10. sacchikātabbasuttaṃ
+3 (20) 5. aparapuggalavaggo
+4 nasevitabbādisuttāni
+2 5. pañcamapaṇṇāsakaṃ
+3 (21) 1. karajakāyavaggo
+4 1. paṭhamanirayasaggasuttaṃ
+4 3. mātugāmasuttaṃ
+4 4. upāsikāsuttaṃ
+4 5. visāradasuttaṃ
+4 6. saṃsappanīyasuttaṃ
+4 7. paṭhamasañcetanikasuttaṃ
+4 8. dutiyasañcetanikasuttaṃ
+4 9. karajakāyasuttaṃ
+4 10. adhammacariyāsuttaṃ
+3 (22) 2. sāmaññavaggo
+3 23. rāgapeyyālaṃ
+a ekādasakanipātapāḷi
+3 1. nissayavaggo
+4 1. kimatthiyasuttaṃ
+4 2. cetanākaraṇīyasuttaṃ
+4 3. paṭhamaupanisāsuttaṃ
+4 4. dutiyaupanisāsuttaṃ
+4 5. tatiyaupanisāsuttaṃ
+4 6. byasanasuttaṃ
+4 7. saññāsuttaṃ
+4 8. manasikārasuttaṃ
+4 9. saddhasuttaṃ
+4 10. moranivāpasuttaṃ
+3 2. anussativaggo
+4 1. paṭhamamahānāmasuttaṃ
+4 2. dutiyamahānāmasuttaṃ
+4 3. nandiyasuttaṃ
+4 4. subhūtisuttaṃ
+4 5. mettāsuttaṃ
+4 6. aṭṭhakanāgarasuttaṃ
+4 7. gopālasuttaṃ
+4 8. paṭhamasamādhisuttaṃ
+4 9. dutiyasamādhisuttaṃ
+4 10. tatiyasamādhisuttaṃ
+4 11. catutthasamādhisuttaṃ
+3 3. sāmaññavaggo
+3 4. rāgapeyyālaṃ
+7118
