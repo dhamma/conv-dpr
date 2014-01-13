@@ -36,6 +36,7 @@ var vrititles=function() {
 	return out;
 }
 var VRI=vrititles();
+fs.writeFileSync('vrititles.txt',JSON.stringify(VRI),'utf8');
 var vriconsumed=0;
 var findvrititlebyid=function(sid) {
 	for (var i=vriconsumed;i<VRI.length;i++) {

@@ -19,6 +19,11 @@ var enumsutraid=function(db) {
 var thaisid=enumsutraid(thaidb);
 var vrisid=enumsutraid(vridb);
 var opts={db:thaifn};
+
+//var selector=['readunit[id=d1','p[sid=21'];
+//vritext=services['yase'].getTextByTag({db:vrifn, selector:selector});
+//console.log(vritext)
+//return;
 for (var i in vrisid) {
 	var id=vrisid[i].match(/(.*?)\.(.*?)$/);
 	var selector=['readunit[id='+id[1],'p[sid='+id[2]];
